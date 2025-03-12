@@ -2,6 +2,11 @@
   "estado": {
     "sigla": "DF",
     "nome": "Distrito Federal",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Brasília",
+        "codigo_ibge": 5300108
+      }
+    ]
   }
 }

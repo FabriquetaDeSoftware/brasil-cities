@@ -2,6 +2,251 @@
   "estado": {
     "sigla": "AM",
     "nome": "Amazonas",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Amaturá",
+        "codigo_ibge": 1300060
+      },
+      {
+        "nome": "Anamã",
+        "codigo_ibge": 1300086
+      },
+      {
+        "nome": "Anori",
+        "codigo_ibge": 1300102
+      },
+      {
+        "nome": "Apuí",
+        "codigo_ibge": 1300144
+      },
+      {
+        "nome": "Atalaia do Norte",
+        "codigo_ibge": 1300201
+      },
+      {
+        "nome": "Autazes",
+        "codigo_ibge": 1300300
+      },
+      {
+        "nome": "Barcelos",
+        "codigo_ibge": 1300409
+      },
+      {
+        "nome": "Barreirinha",
+        "codigo_ibge": 1300508
+      },
+      {
+        "nome": "Benjamin Constant",
+        "codigo_ibge": 1300607
+      },
+      {
+        "nome": "Beruri",
+        "codigo_ibge": 1300631
+      },
+      {
+        "nome": "Boa Vista do Ramos",
+        "codigo_ibge": 1300680
+      },
+      {
+        "nome": "Boca do Acre",
+        "codigo_ibge": 1300706
+      },
+      {
+        "nome": "Borba",
+        "codigo_ibge": 1300805
+      },
+      {
+        "nome": "Caapiranga",
+        "codigo_ibge": 1300839
+      },
+      {
+        "nome": "Canutama",
+        "codigo_ibge": 1300904
+      },
+      {
+        "nome": "Carauari",
+        "codigo_ibge": 1301001
+      },
+      {
+        "nome": "Careiro",
+        "codigo_ibge": 1301100
+      },
+      {
+        "nome": "Careiro da Várzea",
+        "codigo_ibge": 1301159
+      },
+      {
+        "nome": "Coari",
+        "codigo_ibge": 1301209
+      },
+      {
+        "nome": "Codajás",
+        "codigo_ibge": 1301308
+      },
+      {
+        "nome": "Eirunepé",
+        "codigo_ibge": 1301407
+      },
+      {
+        "nome": "Envira",
+        "codigo_ibge": 1301506
+      },
+      {
+        "nome": "Fonte Boa",
+        "codigo_ibge": 1301605
+      },
+      {
+        "nome": "Guajará",
+        "codigo_ibge": 1301654
+      },
+      {
+        "nome": "Humaitá",
+        "codigo_ibge": 1301704
+      },
+      {
+        "nome": "Ipixuna",
+        "codigo_ibge": 1301803
+      },
+      {
+        "nome": "Iranduba",
+        "codigo_ibge": 1301852
+      },
+      {
+        "nome": "Itacoatiara",
+        "codigo_ibge": 1301902
+      },
+      {
+        "nome": "Itamarati",
+        "codigo_ibge": 1301951
+      },
+      {
+        "nome": "Itapiranga",
+        "codigo_ibge": 1302009
+      },
+      {
+        "nome": "Japurá",
+        "codigo_ibge": 1302108
+      },
+      {
+        "nome": "Juruá",
+        "codigo_ibge": 1302207
+      },
+      {
+        "nome": "Jutaí",
+        "codigo_ibge": 1302306
+      },
+      {
+        "nome": "Lábrea",
+        "codigo_ibge": 1302405
+      },
+      {
+        "nome": "Manacapuru",
+        "codigo_ibge": 1302504
+      },
+      {
+        "nome": "Manaquiri",
+        "codigo_ibge": 1302553
+      },
+      {
+        "nome": "Manaus",
+        "codigo_ibge": 1302603
+      },
+      {
+        "nome": "Manicoré",
+        "codigo_ibge": 1302702
+      },
+      {
+        "nome": "Maraã",
+        "codigo_ibge": 1302801
+      },
+      {
+        "nome": "Maués",
+        "codigo_ibge": 1302900
+      },
+      {
+        "nome": "Nhamundá",
+        "codigo_ibge": 1303007
+      },
+      {
+        "nome": "Nova Olinda do Norte",
+        "codigo_ibge": 1303106
+      },
+      {
+        "nome": "Novo Airão",
+        "codigo_ibge": 1303205
+      },
+      {
+        "nome": "Novo Aripuanã",
+        "codigo_ibge": 1303304
+      },
+      {
+        "nome": "Parintins",
+        "codigo_ibge": 1303403
+      },
+      {
+        "nome": "Pauini",
+        "codigo_ibge": 1303502
+      },
+      {
+        "nome": "Presidente Figueiredo",
+        "codigo_ibge": 1303536
+      },
+      {
+        "nome": "Rio Preto da Eva",
+        "codigo_ibge": 1303569
+      },
+      {
+        "nome": "Santa Isabel do Rio Negro",
+        "codigo_ibge": 1303601
+      },
+      {
+        "nome": "Santo Antônio do Içá",
+        "codigo_ibge": 1303700
+      },
+      {
+        "nome": "São Gabriel da Cachoeira",
+        "codigo_ibge": 1303809
+      },
+      {
+        "nome": "São Paulo de Olivença",
+        "codigo_ibge": 1303908
+      },
+      {
+        "nome": "São Sebastião do Uatumã",
+        "codigo_ibge": 1303957
+      },
+      {
+        "nome": "Silves",
+        "codigo_ibge": 1304005
+      },
+      {
+        "nome": "Tabatinga",
+        "codigo_ibge": 1304062
+      },
+      {
+        "nome": "Tapauá",
+        "codigo_ibge": 1304104
+      },
+      {
+        "nome": "Tefé",
+        "codigo_ibge": 1304203
+      },
+      {
+        "nome": "Tonantins",
+        "codigo_ibge": 1304237
+      },
+      {
+        "nome": "Uarini",
+        "codigo_ibge": 1304260
+      },
+      {
+        "nome": "Urucará",
+        "codigo_ibge": 1304302
+      },
+      {
+        "nome": "Urucurituba",
+        "codigo_ibge": 1304401
+      }
+    ]
   }
 }
