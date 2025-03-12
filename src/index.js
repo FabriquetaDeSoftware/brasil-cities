@@ -1,38 +1,14 @@
 import * as fs from 'node:fs';
 import path from 'node:path';
+import { states } from './constants/state.constant.js';
 
 const __dirname = new URL('.', import.meta.url).pathname;
 
-const states = [
-  'ac',
-  'al',
-  'ap',
-  'am',
-  'ba',
-  'ce',
-  'df',
-  'es',
-  'go',
-  'ma',
-  'mt',
-  'ms',
-  'mg',
-  'pa',
-  'pb',
-  'pr',
-  'pe',
-  'pi',
-  'rj',
-  'rn',
-  'rs',
-  'ro',
-  'rr',
-  'sc',
-  'sp',
-  'se',
-  'to',
-];
-
+/**
+ * Obtém os dados de uma cidade de um estado específico.
+ * @param {string} sigla - A sigla do estado (por exemplo, 'SP', 'RJ').
+ * @returns {{sigla: string, nome: string, cidades: Array<{nome: string, codigo_ibge: number}>}| null} - Retorna os dados do estado ou null se não encontrado.
+ */
 const getStateData = (sigla) => {
   const filePath = path.resolve(
     __dirname,
@@ -42,12 +18,18 @@ const getStateData = (sigla) => {
 
   if (fs.existsSync(filePath)) {
     const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    return data.estado.cidades;
+
+    return data;
   }
 
   return null;
 };
 
+/**
+ * Obtém todas as cidades que contêm as letras fornecidas.
+ * @param {string} letters - Letras que as cidades devem conter.
+ * @returns {Array<{ nome: string, codigo: string, estado: string }>} - Retorna uma lista de cidades e seus estados.
+ */
 const getCitiesByLetters = (letters) => {
   const cities = [];
 
@@ -62,10 +44,14 @@ const getCitiesByLetters = (letters) => {
     }
   });
 
-  console.log(cities);
   return cities;
 };
 
+/**
+ * Obtém as informações de uma cidade específica.
+ * @param {string} cityName - Nome da cidade que você quer buscar.
+ * @returns {Array<{ nome: string, codigo: string, estado: string }>} - Retorna as informações da cidade, incluindo o estado.
+ */
 const getCityInfo = (cityName) => {
   const citiesInfo = [];
 
