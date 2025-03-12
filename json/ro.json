@@ -2,6 +2,211 @@
   "estado": {
     "sigla": "RO",
     "nome": "Rondônia",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Alto Alegre dos Parecis",
+        "codigo_ibge": 1100379
+      },
+      {
+        "nome": "Alto Paraíso",
+        "codigo_ibge": 1100403
+      },
+      {
+        "nome": "Alvorada d'Oeste",
+        "codigo_ibge": 1100346
+      },
+      {
+        "nome": "Ariquemes",
+        "codigo_ibge": 1100023
+      },
+      {
+        "nome": "Buritis",
+        "codigo_ibge": 1100452
+      },
+      {
+        "nome": "Cabixi",
+        "codigo_ibge": 1100031
+      },
+      {
+        "nome": "Cacaulândia",
+        "codigo_ibge": 1100601
+      },
+      {
+        "nome": "Cacoal",
+        "codigo_ibge": 1100049
+      },
+      {
+        "nome": "Campo Novo de Rondônia",
+        "codigo_ibge": 1100700
+      },
+      {
+        "nome": "Candeias do Jamari",
+        "codigo_ibge": 1100809
+      },
+      {
+        "nome": "Castanheiras",
+        "codigo_ibge": 1100908
+      },
+      {
+        "nome": "Cerejeiras",
+        "codigo_ibge": 1100056
+      },
+      {
+        "nome": "Chupinguaia",
+        "codigo_ibge": 1100924
+      },
+      {
+        "nome": "Colorado do Oeste",
+        "codigo_ibge": 1100064
+      },
+      {
+        "nome": "Corumbiara",
+        "codigo_ibge": 1100072
+      },
+      {
+        "nome": "Costa Marques",
+        "codigo_ibge": 1100080
+      },
+      {
+        "nome": "Cujubim",
+        "codigo_ibge": 1100940
+      },
+      {
+        "nome": "Espigão d'Oeste",
+        "codigo_ibge": 1100098
+      },
+      {
+        "nome": "Governador Jorge Teixeira",
+        "codigo_ibge": 1101005
+      },
+      {
+        "nome": "Guajará-Mirim",
+        "codigo_ibge": 1100106
+      },
+      {
+        "nome": "Itapuã do Oeste",
+        "codigo_ibge": 1101104
+      },
+      {
+        "nome": "Jaru",
+        "codigo_ibge": 1100114
+      },
+      {
+        "nome": "Ji-Paraná",
+        "codigo_ibge": 1100122
+      },
+      {
+        "nome": "Machadinho d'Oeste",
+        "codigo_ibge": 1100130
+      },
+      {
+        "nome": "Ministro Andreazza",
+        "codigo_ibge": 1101203
+      },
+      {
+        "nome": "Mirante da Serra",
+        "codigo_ibge": 1101302
+      },
+      {
+        "nome": "Monte Negro",
+        "codigo_ibge": 1101401
+      },
+      {
+        "nome": "Nova Brasilândia d'Oeste",
+        "codigo_ibge": 1100148
+      },
+      {
+        "nome": "Nova Mamoré",
+        "codigo_ibge": 1100338
+      },
+      {
+        "nome": "Nova União",
+        "codigo_ibge": 1101435
+      },
+      {
+        "nome": "Novo Horizonte do Oeste",
+        "codigo_ibge": 1100502
+      },
+      {
+        "nome": "Ouro Preto do Oeste",
+        "codigo_ibge": 1100155
+      },
+      {
+        "nome": "Parecis",
+        "codigo_ibge": 1101450
+      },
+      {
+        "nome": "Pimenta Bueno",
+        "codigo_ibge": 1100189
+      },
+      {
+        "nome": "Pimenteiras do Oeste",
+        "codigo_ibge": 1101468
+      },
+      {
+        "nome": "Porto Velho",
+        "codigo_ibge": 1100205
+      },
+      {
+        "nome": "Presidente Médici",
+        "codigo_ibge": 1100254
+      },
+      {
+        "nome": "Primavera de Rondônia",
+        "codigo_ibge": 1101476
+      },
+      {
+        "nome": "Rio Crespo",
+        "codigo_ibge": 1100262
+      },
+      {
+        "nome": "Rolim de Moura",
+        "codigo_ibge": 1100288
+      },
+      {
+        "nome": "Santa Luzia d'Oeste",
+        "codigo_ibge": 1100296
+      },
+      {
+        "nome": "São Felipe d'Oeste",
+        "codigo_ibge": 1101484
+      },
+      {
+        "nome": "São Francisco do Guaporé",
+        "codigo_ibge": 1101492
+      },
+      {
+        "nome": "São Miguel do Guaporé",
+        "codigo_ibge": 1100320
+      },
+      {
+        "nome": "Seringueiras",
+        "codigo_ibge": 1101500
+      },
+      {
+        "nome": "Teixeirópolis",
+        "codigo_ibge": 1101559
+      },
+      {
+        "nome": "Theobroma",
+        "codigo_ibge": 1101609
+      },
+      {
+        "nome": "Urupá",
+        "codigo_ibge": 1101708
+      },
+      {
+        "nome": "Vale do Anari",
+        "codigo_ibge": 1101757
+      },
+      {
+        "nome": "Vale do Paraíso",
+        "codigo_ibge": 1101807
+      },
+      {
+        "nome": "Vilhena",
+        "codigo_ibge": 1100304
+      }
+    ]
   }
 }

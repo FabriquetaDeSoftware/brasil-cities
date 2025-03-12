@@ -2,6 +2,567 @@
   "estado": {
     "sigla": "MT",
     "nome": "Mato Grosso",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Água Boa",
+        "codigo_ibge": 5100201
+      },
+      {
+        "nome": "Alta Floresta",
+        "codigo_ibge": 5100250
+      },
+      {
+        "nome": "Alto Araguaia",
+        "codigo_ibge": 5100300
+      },
+      {
+        "nome": "Alto Boa Vista",
+        "codigo_ibge": 5100359
+      },
+      {
+        "nome": "Alto Garças",
+        "codigo_ibge": 5100409
+      },
+      {
+        "nome": "Alto Paraguai",
+        "codigo_ibge": 5100508
+      },
+      {
+        "nome": "Alto Taquari",
+        "codigo_ibge": 5100607
+      },
+      {
+        "nome": "Apiacás",
+        "codigo_ibge": 5100805
+      },
+      {
+        "nome": "Araguaiana",
+        "codigo_ibge": 5101001
+      },
+      {
+        "nome": "Araguainha",
+        "codigo_ibge": 5101209
+      },
+      {
+        "nome": "Araputanga",
+        "codigo_ibge": 5101258
+      },
+      {
+        "nome": "Arenápolis",
+        "codigo_ibge": 5101308
+      },
+      {
+        "nome": "Aripuanã",
+        "codigo_ibge": 5101407
+      },
+      {
+        "nome": "Barão de Melgaço",
+        "codigo_ibge": 5101605
+      },
+      {
+        "nome": "Barra do Bugres",
+        "codigo_ibge": 5101704
+      },
+      {
+        "nome": "Barra do Garças",
+        "codigo_ibge": 5101803
+      },
+      {
+        "nome": "Bom Jesus do Araguaia",
+        "codigo_ibge": 5101852
+      },
+      {
+        "nome": "Brasnorte",
+        "codigo_ibge": 5101902
+      },
+      {
+        "nome": "Cáceres",
+        "codigo_ibge": 5102504
+      },
+      {
+        "nome": "Campinápolis",
+        "codigo_ibge": 5102603
+      },
+      {
+        "nome": "Campo Novo do Parecis",
+        "codigo_ibge": 5102637
+      },
+      {
+        "nome": "Campo Verde",
+        "codigo_ibge": 5102678
+      },
+      {
+        "nome": "Campos de Júlio",
+        "codigo_ibge": 5102686
+      },
+      {
+        "nome": "Canabrava do Norte",
+        "codigo_ibge": 5102694
+      },
+      {
+        "nome": "Canarana",
+        "codigo_ibge": 5102702
+      },
+      {
+        "nome": "Carlinda",
+        "codigo_ibge": 5102793
+      },
+      {
+        "nome": "Castanheira",
+        "codigo_ibge": 5102850
+      },
+      {
+        "nome": "Chapada dos Guimarães",
+        "codigo_ibge": 5103007
+      },
+      {
+        "nome": "Cláudia",
+        "codigo_ibge": 5103056
+      },
+      {
+        "nome": "Cocalinho",
+        "codigo_ibge": 5103106
+      },
+      {
+        "nome": "Colíder",
+        "codigo_ibge": 5103205
+      },
+      {
+        "nome": "Colniza",
+        "codigo_ibge": 5103254
+      },
+      {
+        "nome": "Comodoro",
+        "codigo_ibge": 5103304
+      },
+      {
+        "nome": "Confresa",
+        "codigo_ibge": 5103353
+      },
+      {
+        "nome": "Conquista d'Oeste",
+        "codigo_ibge": 5103361
+      },
+      {
+        "nome": "Cotriguaçu",
+        "codigo_ibge": 5103379
+      },
+      {
+        "nome": "Cuiabá",
+        "codigo_ibge": 5103403
+      },
+      {
+        "nome": "Curvelândia",
+        "codigo_ibge": 5103437
+      },
+      {
+        "nome": "Denise",
+        "codigo_ibge": 5103452
+      },
+      {
+        "nome": "Diamantino",
+        "codigo_ibge": 5103502
+      },
+      {
+        "nome": "Dom Aquino",
+        "codigo_ibge": 5103601
+      },
+      {
+        "nome": "Feliz Natal",
+        "codigo_ibge": 5103700
+      },
+      {
+        "nome": "Figueirópolis d'Oeste",
+        "codigo_ibge": 5103809
+      },
+      {
+        "nome": "Gaúcha do Norte",
+        "codigo_ibge": 5103858
+      },
+      {
+        "nome": "General Carneiro",
+        "codigo_ibge": 5103908
+      },
+      {
+        "nome": "Glória d'Oeste",
+        "codigo_ibge": 5103957
+      },
+      {
+        "nome": "Guarantã do Norte",
+        "codigo_ibge": 5104104
+      },
+      {
+        "nome": "Guiratinga",
+        "codigo_ibge": 5104203
+      },
+      {
+        "nome": "Indiavaí",
+        "codigo_ibge": 5104500
+      },
+      {
+        "nome": "Ipiranga do Norte",
+        "codigo_ibge": 5104526
+      },
+      {
+        "nome": "Itanhangá",
+        "codigo_ibge": 5104542
+      },
+      {
+        "nome": "Itaúba",
+        "codigo_ibge": 5104559
+      },
+      {
+        "nome": "Itiquira",
+        "codigo_ibge": 5104609
+      },
+      {
+        "nome": "Jaciara",
+        "codigo_ibge": 5104807
+      },
+      {
+        "nome": "Jangada",
+        "codigo_ibge": 5104906
+      },
+      {
+        "nome": "Jauru",
+        "codigo_ibge": 5105002
+      },
+      {
+        "nome": "Juara",
+        "codigo_ibge": 5105101
+      },
+      {
+        "nome": "Juína",
+        "codigo_ibge": 5105150
+      },
+      {
+        "nome": "Juruena",
+        "codigo_ibge": 5105176
+      },
+      {
+        "nome": "Juscimeira",
+        "codigo_ibge": 5105200
+      },
+      {
+        "nome": "Lambari d'Oeste",
+        "codigo_ibge": 5105234
+      },
+      {
+        "nome": "Lucas do Rio Verde",
+        "codigo_ibge": 5105259
+      },
+      {
+        "nome": "Luciara",
+        "codigo_ibge": 5105309
+      },
+      {
+        "nome": "Marcelândia",
+        "codigo_ibge": 5105580
+      },
+      {
+        "nome": "Matupá",
+        "codigo_ibge": 5105606
+      },
+      {
+        "nome": "Mirassol d'Oeste",
+        "codigo_ibge": 5105622
+      },
+      {
+        "nome": "Nobres",
+        "codigo_ibge": 5105903
+      },
+      {
+        "nome": "Nortelândia",
+        "codigo_ibge": 5106000
+      },
+      {
+        "nome": "Nossa Senhora do Livramento",
+        "codigo_ibge": 5106109
+      },
+      {
+        "nome": "Nova Bandeirantes",
+        "codigo_ibge": 5106158
+      },
+      {
+        "nome": "Nova Brasilândia",
+        "codigo_ibge": 5106208
+      },
+      {
+        "nome": "Nova Canaã do Norte",
+        "codigo_ibge": 5106216
+      },
+      {
+        "nome": "Nova Guarita",
+        "codigo_ibge": 5108808
+      },
+      {
+        "nome": "Nova Lacerda",
+        "codigo_ibge": 5106182
+      },
+      {
+        "nome": "Nova Marilândia",
+        "codigo_ibge": 5108857
+      },
+      {
+        "nome": "Nova Maringá",
+        "codigo_ibge": 5108907
+      },
+      {
+        "nome": "Nova Monte Verde",
+        "codigo_ibge": 5108956
+      },
+      {
+        "nome": "Nova Mutum",
+        "codigo_ibge": 5106224
+      },
+      {
+        "nome": "Nova Nazaré",
+        "codigo_ibge": 5106174
+      },
+      {
+        "nome": "Nova Olímpia",
+        "codigo_ibge": 5106232
+      },
+      {
+        "nome": "Nova Santa Helena",
+        "codigo_ibge": 5106190
+      },
+      {
+        "nome": "Nova Ubiratã",
+        "codigo_ibge": 5106240
+      },
+      {
+        "nome": "Nova Xavantina",
+        "codigo_ibge": 5106257
+      },
+      {
+        "nome": "Novo Horizonte do Norte",
+        "codigo_ibge": 5106273
+      },
+      {
+        "nome": "Novo Mundo",
+        "codigo_ibge": 5106265
+      },
+      {
+        "nome": "Novo Santo Antônio",
+        "codigo_ibge": 5106315
+      },
+      {
+        "nome": "Novo São Joaquim",
+        "codigo_ibge": 5106281
+      },
+      {
+        "nome": "Paranaíta",
+        "codigo_ibge": 5106299
+      },
+      {
+        "nome": "Paranatinga",
+        "codigo_ibge": 5106307
+      },
+      {
+        "nome": "Pedra Preta",
+        "codigo_ibge": 5106372
+      },
+      {
+        "nome": "Peixoto de Azevedo",
+        "codigo_ibge": 5106422
+      },
+      {
+        "nome": "Planalto da Serra",
+        "codigo_ibge": 5106455
+      },
+      {
+        "nome": "Poconé",
+        "codigo_ibge": 5106505
+      },
+      {
+        "nome": "Pontal do Araguaia",
+        "codigo_ibge": 5106653
+      },
+      {
+        "nome": "Ponte Branca",
+        "codigo_ibge": 5106703
+      },
+      {
+        "nome": "Pontes e Lacerda",
+        "codigo_ibge": 5106752
+      },
+      {
+        "nome": "Porto Alegre do Norte",
+        "codigo_ibge": 5106778
+      },
+      {
+        "nome": "Porto dos Gaúchos",
+        "codigo_ibge": 5106802
+      },
+      {
+        "nome": "Porto Esperidião",
+        "codigo_ibge": 5106828
+      },
+      {
+        "nome": "Porto Estrela",
+        "codigo_ibge": 5106851
+      },
+      {
+        "nome": "Poxoréu",
+        "codigo_ibge": 5107008
+      },
+      {
+        "nome": "Primavera do Leste",
+        "codigo_ibge": 5107040
+      },
+      {
+        "nome": "Querência",
+        "codigo_ibge": 5107065
+      },
+      {
+        "nome": "Reserva do Cabaçal",
+        "codigo_ibge": 5107156
+      },
+      {
+        "nome": "Ribeirão Cascalheira",
+        "codigo_ibge": 5107180
+      },
+      {
+        "nome": "Ribeirãozinho",
+        "codigo_ibge": 5107198
+      },
+      {
+        "nome": "Rio Branco",
+        "codigo_ibge": 5107206
+      },
+      {
+        "nome": "Rondolândia",
+        "codigo_ibge": 5107578
+      },
+      {
+        "nome": "Rondonópolis",
+        "codigo_ibge": 5107602
+      },
+      {
+        "nome": "Rosário Oeste",
+        "codigo_ibge": 5107701
+      },
+      {
+        "nome": "Salto do Céu",
+        "codigo_ibge": 5107750
+      },
+      {
+        "nome": "Santa Carmem",
+        "codigo_ibge": 5107248
+      },
+      {
+        "nome": "Santa Cruz do Xingu",
+        "codigo_ibge": 5107743
+      },
+      {
+        "nome": "Santa Rita do Trivelato",
+        "codigo_ibge": 5107768
+      },
+      {
+        "nome": "Santa Terezinha",
+        "codigo_ibge": 5107776
+      },
+      {
+        "nome": "Santo Afonso",
+        "codigo_ibge": 5107263
+      },
+      {
+        "nome": "Santo Antônio do Leste",
+        "codigo_ibge": 5107792
+      },
+      {
+        "nome": "Santo Antônio de Leverger",
+        "codigo_ibge": 5107800
+      },
+      {
+        "nome": "São Félix do Araguaia",
+        "codigo_ibge": 5107859
+      },
+      {
+        "nome": "São José do Povo",
+        "codigo_ibge": 5107297
+      },
+      {
+        "nome": "São José do Rio Claro",
+        "codigo_ibge": 5107305
+      },
+      {
+        "nome": "São José do Xingu",
+        "codigo_ibge": 5107354
+      },
+      {
+        "nome": "São José dos Quatro Marcos",
+        "codigo_ibge": 5107107
+      },
+      {
+        "nome": "São Pedro da Cipa",
+        "codigo_ibge": 5107404
+      },
+      {
+        "nome": "Sapezal",
+        "codigo_ibge": 5107875
+      },
+      {
+        "nome": "Serra Nova Dourada",
+        "codigo_ibge": 5107883
+      },
+      {
+        "nome": "Sinop",
+        "codigo_ibge": 5107909
+      },
+      {
+        "nome": "Sorriso",
+        "codigo_ibge": 5107925
+      },
+      {
+        "nome": "Tabaporã",
+        "codigo_ibge": 5107941
+      },
+      {
+        "nome": "Tangará da Serra",
+        "codigo_ibge": 5107958
+      },
+      {
+        "nome": "Tapurah",
+        "codigo_ibge": 5108006
+      },
+      {
+        "nome": "Terra Nova do Norte",
+        "codigo_ibge": 5108055
+      },
+      {
+        "nome": "Tesouro",
+        "codigo_ibge": 5108105
+      },
+      {
+        "nome": "Torixoréu",
+        "codigo_ibge": 5108204
+      },
+      {
+        "nome": "União do Sul",
+        "codigo_ibge": 5108303
+      },
+      {
+        "nome": "Vale de São Domingos",
+        "codigo_ibge": 5108352
+      },
+      {
+        "nome": "Várzea Grande",
+        "codigo_ibge": 5108402
+      },
+      {
+        "nome": "Vera",
+        "codigo_ibge": 5108501
+      },
+      {
+        "nome": "Vila Bela da Santíssima Trindade",
+        "codigo_ibge": 5105507
+      },
+      {
+        "nome": "Vila Rica",
+        "codigo_ibge": 5108600
+      }
+    ]
   }
 }

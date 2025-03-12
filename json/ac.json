@@ -2,6 +2,91 @@
   "estado": {
     "sigla": "AC",
     "nome": "Acre",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Assis Brasil",
+        "codigo_ibge": 1200054
+      },
+      {
+        "nome": "Brasiléia",
+        "codigo_ibge": 1200104
+      },
+      {
+        "nome": "Bujari",
+        "codigo_ibge": 1200138
+      },
+      {
+        "nome": "Capixaba",
+        "codigo_ibge": 1200179
+      },
+      {
+        "nome": "Cruzeiro do Sul",
+        "codigo_ibge": 1200203
+      },
+      {
+        "nome": "Epitaciolândia",
+        "codigo_ibge": 1200252
+      },
+      {
+        "nome": "Feijó",
+        "codigo_ibge": 1200302
+      },
+      {
+        "nome": "Jordão",
+        "codigo_ibge": 1200328
+      },
+      {
+        "nome": "Manoel Urbano",
+        "codigo_ibge": 1200336
+      },
+      {
+        "nome": "Marechal Thaumaturgo",
+        "codigo_ibge": 1200344
+      },
+      {
+        "nome": "Mâncio Lima",
+        "codigo_ibge": 1200351
+      },
+      {
+        "nome": "Plácido de Castro",
+        "codigo_ibge": 1200385
+      },
+      {
+        "nome": "Porto Acre",
+        "codigo_ibge": 1200807
+      },
+      {
+        "nome": "Porto Walter",
+        "codigo_ibge": 1200393
+      },
+      {
+        "nome": "Rio Branco",
+        "codigo_ibge": 1200401
+      },
+      {
+        "nome": "Rodrigues Alves",
+        "codigo_ibge": 1200427
+      },
+      {
+        "nome": "Santa Rosa do Purus",
+        "codigo_ibge": 1200435
+      },
+      {
+        "nome": "Sena Madureira",
+        "codigo_ibge": 1200500
+      },
+      {
+        "nome": "Senador Guiomard",
+        "codigo_ibge": 1200450
+      },
+      {
+        "nome": "Tarauacá",
+        "codigo_ibge": 1200609
+      },
+      {
+        "nome": "Xapuri",
+        "codigo_ibge": 1200708
+      }
+    ]
   }
 }

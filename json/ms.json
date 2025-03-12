@@ -2,6 +2,319 @@
   "estado": {
     "sigla": "MS",
     "nome": "Mato Grosso do Sul",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Alcinópolis",
+        "codigo_ibge": 5000252
+      },
+      {
+        "nome": "Amambai",
+        "codigo_ibge": 5000609
+      },
+      {
+        "nome": "Anastácio",
+        "codigo_ibge": 5000708
+      },
+      {
+        "nome": "Anaurilândia",
+        "codigo_ibge": 5000807
+      },
+      {
+        "nome": "Angélica",
+        "codigo_ibge": 5000856
+      },
+      {
+        "nome": "Antônio João",
+        "codigo_ibge": 5000906
+      },
+      {
+        "nome": "Aparecida do Taboado",
+        "codigo_ibge": 5001003
+      },
+      {
+        "nome": "Aquidauana",
+        "codigo_ibge": 5001102
+      },
+      {
+        "nome": "Aral Moreira",
+        "codigo_ibge": 5001243
+      },
+      {
+        "nome": "Bandeirantes",
+        "codigo_ibge": 5001508
+      },
+      {
+        "nome": "Bataguassu",
+        "codigo_ibge": 5001904
+      },
+      {
+        "nome": "Batayporã",
+        "codigo_ibge": 5002001
+      },
+      {
+        "nome": "Bela Vista",
+        "codigo_ibge": 5002100
+      },
+      {
+        "nome": "Bodoquena",
+        "codigo_ibge": 5002159
+      },
+      {
+        "nome": "Bonito",
+        "codigo_ibge": 5002209
+      },
+      {
+        "nome": "Brasilândia",
+        "codigo_ibge": 5002308
+      },
+      {
+        "nome": "Caarapó",
+        "codigo_ibge": 5002407
+      },
+      {
+        "nome": "Camapuã",
+        "codigo_ibge": 5002605
+      },
+      {
+        "nome": "Campo Grande",
+        "codigo_ibge": 5002704
+      },
+      {
+        "nome": "Caracol",
+        "codigo_ibge": 5002803
+      },
+      {
+        "nome": "Cassilândia",
+        "codigo_ibge": 5002902
+      },
+      {
+        "nome": "Chapadão do Sul",
+        "codigo_ibge": 5002951
+      },
+      {
+        "nome": "Corguinho",
+        "codigo_ibge": 5003108
+      },
+      {
+        "nome": "Coronel Sapucaia",
+        "codigo_ibge": 5003157
+      },
+      {
+        "nome": "Corumbá",
+        "codigo_ibge": 5003207
+      },
+      {
+        "nome": "Costa Rica",
+        "codigo_ibge": 5003256
+      },
+      {
+        "nome": "Coxim",
+        "codigo_ibge": 5003306
+      },
+      {
+        "nome": "Deodápolis",
+        "codigo_ibge": 5003454
+      },
+      {
+        "nome": "Dois Irmãos do Buriti",
+        "codigo_ibge": 5003488
+      },
+      {
+        "nome": "Douradina",
+        "codigo_ibge": 5003504
+      },
+      {
+        "nome": "Dourados",
+        "codigo_ibge": 5003702
+      },
+      {
+        "nome": "Eldorado",
+        "codigo_ibge": 5003751
+      },
+      {
+        "nome": "Fátima do Sul",
+        "codigo_ibge": 5003801
+      },
+      {
+        "nome": "Figueirão",
+        "codigo_ibge": 5003900
+      },
+      {
+        "nome": "Glória de Dourados",
+        "codigo_ibge": 5004007
+      },
+      {
+        "nome": "Guia Lopes da Laguna",
+        "codigo_ibge": 5004106
+      },
+      {
+        "nome": "Iguatemi",
+        "codigo_ibge": 5004304
+      },
+      {
+        "nome": "Inocência",
+        "codigo_ibge": 5004403
+      },
+      {
+        "nome": "Itaporã",
+        "codigo_ibge": 5004502
+      },
+      {
+        "nome": "Itaquiraí",
+        "codigo_ibge": 5004601
+      },
+      {
+        "nome": "Ivinhema",
+        "codigo_ibge": 5004700
+      },
+      {
+        "nome": "Japorã",
+        "codigo_ibge": 5004809
+      },
+      {
+        "nome": "Jaraguari",
+        "codigo_ibge": 5004908
+      },
+      {
+        "nome": "Jardim",
+        "codigo_ibge": 5005004
+      },
+      {
+        "nome": "Jateí",
+        "codigo_ibge": 5005103
+      },
+      {
+        "nome": "Juti",
+        "codigo_ibge": 5005152
+      },
+      {
+        "nome": "Ladário",
+        "codigo_ibge": 5005202
+      },
+      {
+        "nome": "Laguna Carapã",
+        "codigo_ibge": 5005251
+      },
+      {
+        "nome": "Maracaju",
+        "codigo_ibge": 5005400
+      },
+      {
+        "nome": "Miranda",
+        "codigo_ibge": 5005608
+      },
+      {
+        "nome": "Mundo Novo",
+        "codigo_ibge": 5005681
+      },
+      {
+        "nome": "Naviraí",
+        "codigo_ibge": 5005707
+      },
+      {
+        "nome": "Nioaque",
+        "codigo_ibge": 5005806
+      },
+      {
+        "nome": "Nova Alvorada do Sul",
+        "codigo_ibge": 5006002
+      },
+      {
+        "nome": "Nova Andradina",
+        "codigo_ibge": 5006200
+      },
+      {
+        "nome": "Novo Horizonte do Sul",
+        "codigo_ibge": 5006259
+      },
+      {
+        "nome": "Paraíso das Águas",
+        "codigo_ibge": 5006275
+      },
+      {
+        "nome": "Paranaíba",
+        "codigo_ibge": 5006309
+      },
+      {
+        "nome": "Paranhos",
+        "codigo_ibge": 5006358
+      },
+      {
+        "nome": "Pedro Gomes",
+        "codigo_ibge": 5006408
+      },
+      {
+        "nome": "Ponta Porã",
+        "codigo_ibge": 5006606
+      },
+      {
+        "nome": "Porto Murtinho",
+        "codigo_ibge": 5006903
+      },
+      {
+        "nome": "Ribas do Rio Pardo",
+        "codigo_ibge": 5007109
+      },
+      {
+        "nome": "Rio Brilhante",
+        "codigo_ibge": 5007208
+      },
+      {
+        "nome": "Rio Negro",
+        "codigo_ibge": 5007307
+      },
+      {
+        "nome": "Rio Verde de Mato Grosso",
+        "codigo_ibge": 5007406
+      },
+      {
+        "nome": "Rochedo",
+        "codigo_ibge": 5007505
+      },
+      {
+        "nome": "Santa Rita do Pardo",
+        "codigo_ibge": 5007554
+      },
+      {
+        "nome": "São Gabriel do Oeste",
+        "codigo_ibge": 5007695
+      },
+      {
+        "nome": "Selvíria",
+        "codigo_ibge": 5007703
+      },
+      {
+        "nome": "Sete Quedas",
+        "codigo_ibge": 5007802
+      },
+      {
+        "nome": "Sidrolândia",
+        "codigo_ibge": 5007901
+      },
+      {
+        "nome": "Sonora",
+        "codigo_ibge": 5007935
+      },
+      {
+        "nome": "Tacuru",
+        "codigo_ibge": 5007950
+      },
+      {
+        "nome": "Taquarussu",
+        "codigo_ibge": 5007976
+      },
+      {
+        "nome": "Terenos",
+        "codigo_ibge": 5008008
+      },
+      {
+        "nome": "Três Lagoas",
+        "codigo_ibge": 5008305
+      },
+      {
+        "nome": "Vicentina",
+        "codigo_ibge": 5008404
+      }
+    ]
   }
 }

@@ -2,6 +2,987 @@
   "estado": {
     "sigla": "GO",
     "nome": "Goiás",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Abadiânia",
+        "codigo_ibge": 5200100
+      },
+      {
+        "nome": "Acreúna",
+        "codigo_ibge": 5200134
+      },
+      {
+        "nome": "Adelândia",
+        "codigo_ibge": 5200159
+      },
+      {
+        "nome": "Água Fria de Goiás",
+        "codigo_ibge": 5200175
+      },
+      {
+        "nome": "Água Limpa",
+        "codigo_ibge": 5200209
+      },
+      {
+        "nome": "Águas Lindas de Goiás",
+        "codigo_ibge": 5200258
+      },
+      {
+        "nome": "Alexânia",
+        "codigo_ibge": 5200308
+      },
+      {
+        "nome": "Aloândia",
+        "codigo_ibge": 5200506
+      },
+      {
+        "nome": "Alto Horizonte",
+        "codigo_ibge": 5200555
+      },
+      {
+        "nome": "Alto Paraíso de Goiás",
+        "codigo_ibge": 5200605
+      },
+      {
+        "nome": "Alvorada do Norte",
+        "codigo_ibge": 5200803
+      },
+      {
+        "nome": "Amaralina",
+        "codigo_ibge": 5200829
+      },
+      {
+        "nome": "Americano do Brasil",
+        "codigo_ibge": 5200852
+      },
+      {
+        "nome": "Amorinópolis",
+        "codigo_ibge": 5200902
+      },
+      {
+        "nome": "Anápolis",
+        "codigo_ibge": 5201108
+      },
+      {
+        "nome": "Anhanguera",
+        "codigo_ibge": 5201207
+      },
+      {
+        "nome": "Anicuns",
+        "codigo_ibge": 5201306
+      },
+      {
+        "nome": "Aparecida de Goiânia",
+        "codigo_ibge": 5201405
+      },
+      {
+        "nome": "Aparecida do Rio Doce",
+        "codigo_ibge": 5201454
+      },
+      {
+        "nome": "Aporé",
+        "codigo_ibge": 5201504
+      },
+      {
+        "nome": "Araçu",
+        "codigo_ibge": 5201603
+      },
+      {
+        "nome": "Aragarças",
+        "codigo_ibge": 5201702
+      },
+      {
+        "nome": "Aragoiânia",
+        "codigo_ibge": 5201801
+      },
+      {
+        "nome": "Araguapaz",
+        "codigo_ibge": 5202155
+      },
+      {
+        "nome": "Arenópolis",
+        "codigo_ibge": 5202353
+      },
+      {
+        "nome": "Aruanã",
+        "codigo_ibge": 5202502
+      },
+      {
+        "nome": "Aurilândia",
+        "codigo_ibge": 5202601
+      },
+      {
+        "nome": "Avelinópolis",
+        "codigo_ibge": 5202809
+      },
+      {
+        "nome": "Baliza",
+        "codigo_ibge": 5203104
+      },
+      {
+        "nome": "Barro Alto",
+        "codigo_ibge": 5203203
+      },
+      {
+        "nome": "Bela Vista de Goiás",
+        "codigo_ibge": 5203302
+      },
+      {
+        "nome": "Bom Jardim de Goiás",
+        "codigo_ibge": 5203401
+      },
+      {
+        "nome": "Bom Jesus de Goiás",
+        "codigo_ibge": 5203500
+      },
+      {
+        "nome": "Bonfinópolis",
+        "codigo_ibge": 5203559
+      },
+      {
+        "nome": "Bonópolis",
+        "codigo_ibge": 5203575
+      },
+      {
+        "nome": "Brazabrantes",
+        "codigo_ibge": 5203609
+      },
+      {
+        "nome": "Britânia",
+        "codigo_ibge": 5203807
+      },
+      {
+        "nome": "Buriti Alegre",
+        "codigo_ibge": 5203906
+      },
+      {
+        "nome": "Buriti de Goiás",
+        "codigo_ibge": 5203939
+      },
+      {
+        "nome": "Buritinópolis",
+        "codigo_ibge": 5203962
+      },
+      {
+        "nome": "Cabeceiras",
+        "codigo_ibge": 5204003
+      },
+      {
+        "nome": "Cachoeira Alta",
+        "codigo_ibge": 5204102
+      },
+      {
+        "nome": "Cachoeira de Goiás",
+        "codigo_ibge": 5204201
+      },
+      {
+        "nome": "Cachoeira Dourada",
+        "codigo_ibge": 5204250
+      },
+      {
+        "nome": "Caçu",
+        "codigo_ibge": 5204300
+      },
+      {
+        "nome": "Caiapônia",
+        "codigo_ibge": 5204409
+      },
+      {
+        "nome": "Caldas Novas",
+        "codigo_ibge": 5204508
+      },
+      {
+        "nome": "Caldazinha",
+        "codigo_ibge": 5204557
+      },
+      {
+        "nome": "Campestre de Goiás",
+        "codigo_ibge": 5204607
+      },
+      {
+        "nome": "Campinaçu",
+        "codigo_ibge": 5204656
+      },
+      {
+        "nome": "Campinorte",
+        "codigo_ibge": 5204706
+      },
+      {
+        "nome": "Campo Alegre de Goiás",
+        "codigo_ibge": 5204805
+      },
+      {
+        "nome": "Campo Limpo de Goiás",
+        "codigo_ibge": 5204854
+      },
+      {
+        "nome": "Campos Belos",
+        "codigo_ibge": 5204904
+      },
+      {
+        "nome": "Campos Verdes",
+        "codigo_ibge": 5204953
+      },
+      {
+        "nome": "Carmo do Rio Verde",
+        "codigo_ibge": 5205000
+      },
+      {
+        "nome": "Castelândia",
+        "codigo_ibge": 5205059
+      },
+      {
+        "nome": "Catalão",
+        "codigo_ibge": 5205109
+      },
+      {
+        "nome": "Caturaí",
+        "codigo_ibge": 5205208
+      },
+      {
+        "nome": "Cavalcante",
+        "codigo_ibge": 5205307
+      },
+      {
+        "nome": "Ceres",
+        "codigo_ibge": 5205406
+      },
+      {
+        "nome": "Cezarina",
+        "codigo_ibge": 5205455
+      },
+      {
+        "nome": "Chapadão do Céu",
+        "codigo_ibge": 5205471
+      },
+      {
+        "nome": "Cidade Ocidental",
+        "codigo_ibge": 5205497
+      },
+      {
+        "nome": "Cocalzinho de Goiás",
+        "codigo_ibge": 5205513
+      },
+      {
+        "nome": "Colinas do Sul",
+        "codigo_ibge": 5205521
+      },
+      {
+        "nome": "Córrego do Ouro",
+        "codigo_ibge": 5205703
+      },
+      {
+        "nome": "Corumbá de Goiás",
+        "codigo_ibge": 5205802
+      },
+      {
+        "nome": "Corumbaíba",
+        "codigo_ibge": 5205901
+      },
+      {
+        "nome": "Cristalina",
+        "codigo_ibge": 5206206
+      },
+      {
+        "nome": "Cristianópolis",
+        "codigo_ibge": 5206305
+      },
+      {
+        "nome": "Crixás",
+        "codigo_ibge": 5206404
+      },
+      {
+        "nome": "Cromínia",
+        "codigo_ibge": 5206503
+      },
+      {
+        "nome": "Cumari",
+        "codigo_ibge": 5206602
+      },
+      {
+        "nome": "Damianópolis",
+        "codigo_ibge": 5206701
+      },
+      {
+        "nome": "Damolândia",
+        "codigo_ibge": 5206800
+      },
+      {
+        "nome": "Davinópolis",
+        "codigo_ibge": 5206909
+      },
+      {
+        "nome": "Diorama",
+        "codigo_ibge": 5207105
+      },
+      {
+        "nome": "Divinópolis de Goiás",
+        "codigo_ibge": 5208301
+      },
+      {
+        "nome": "Doverlândia",
+        "codigo_ibge": 5207253
+      },
+      {
+        "nome": "Edealina",
+        "codigo_ibge": 5207352
+      },
+      {
+        "nome": "Edéia",
+        "codigo_ibge": 5207402
+      },
+      {
+        "nome": "Estrela do Norte",
+        "codigo_ibge": 5207501
+      },
+      {
+        "nome": "Faina",
+        "codigo_ibge": 5207535
+      },
+      {
+        "nome": "Fazenda Nova",
+        "codigo_ibge": 5207600
+      },
+      {
+        "nome": "Firminópolis",
+        "codigo_ibge": 5207808
+      },
+      {
+        "nome": "Flores de Goiás",
+        "codigo_ibge": 5207907
+      },
+      {
+        "nome": "Formosa",
+        "codigo_ibge": 5208004
+      },
+      {
+        "nome": "Formoso",
+        "codigo_ibge": 5208103
+      },
+      {
+        "nome": "Gameleira de Goiás",
+        "codigo_ibge": 5208152
+      },
+      {
+        "nome": "Goianápolis",
+        "codigo_ibge": 5208400
+      },
+      {
+        "nome": "Goiandira",
+        "codigo_ibge": 5208509
+      },
+      {
+        "nome": "Goianésia",
+        "codigo_ibge": 5208608
+      },
+      {
+        "nome": "Goiânia",
+        "codigo_ibge": 5208707
+      },
+      {
+        "nome": "Goianira",
+        "codigo_ibge": 5208806
+      },
+      {
+        "nome": "Goiás",
+        "codigo_ibge": 5208905
+      },
+      {
+        "nome": "Goiatuba",
+        "codigo_ibge": 5209101
+      },
+      {
+        "nome": "Gouvelândia",
+        "codigo_ibge": 5209150
+      },
+      {
+        "nome": "Guapó",
+        "codigo_ibge": 5209200
+      },
+      {
+        "nome": "Guaraíta",
+        "codigo_ibge": 5209291
+      },
+      {
+        "nome": "Guarani de Goiás",
+        "codigo_ibge": 5209408
+      },
+      {
+        "nome": "Guarinos",
+        "codigo_ibge": 5209457
+      },
+      {
+        "nome": "Heitoraí",
+        "codigo_ibge": 5209606
+      },
+      {
+        "nome": "Hidrolândia",
+        "codigo_ibge": 5209705
+      },
+      {
+        "nome": "Hidrolina",
+        "codigo_ibge": 5209804
+      },
+      {
+        "nome": "Iaciara",
+        "codigo_ibge": 5209903
+      },
+      {
+        "nome": "Inaciolândia",
+        "codigo_ibge": 5209937
+      },
+      {
+        "nome": "Indiara",
+        "codigo_ibge": 5209952
+      },
+      {
+        "nome": "Inhumas",
+        "codigo_ibge": 5210000
+      },
+      {
+        "nome": "Ipameri",
+        "codigo_ibge": 5210109
+      },
+      {
+        "nome": "Ipiranga de Goiás",
+        "codigo_ibge": 5210158
+      },
+      {
+        "nome": "Iporá",
+        "codigo_ibge": 5210208
+      },
+      {
+        "nome": "Israelândia",
+        "codigo_ibge": 5210307
+      },
+      {
+        "nome": "Itaberaí",
+        "codigo_ibge": 5210406
+      },
+      {
+        "nome": "Itaguari",
+        "codigo_ibge": 5210562
+      },
+      {
+        "nome": "Itaguaru",
+        "codigo_ibge": 5210604
+      },
+      {
+        "nome": "Itajá",
+        "codigo_ibge": 5210802
+      },
+      {
+        "nome": "Itapaci",
+        "codigo_ibge": 5210901
+      },
+      {
+        "nome": "Itapirapuã",
+        "codigo_ibge": 5211008
+      },
+      {
+        "nome": "Itapuranga",
+        "codigo_ibge": 5211206
+      },
+      {
+        "nome": "Itarumã",
+        "codigo_ibge": 5211305
+      },
+      {
+        "nome": "Itauçu",
+        "codigo_ibge": 5211404
+      },
+      {
+        "nome": "Itumbiara",
+        "codigo_ibge": 5211503
+      },
+      {
+        "nome": "Ivolândia",
+        "codigo_ibge": 5211602
+      },
+      {
+        "nome": "Jandaia",
+        "codigo_ibge": 5211701
+      },
+      {
+        "nome": "Jaraguá",
+        "codigo_ibge": 5211800
+      },
+      {
+        "nome": "Jataí",
+        "codigo_ibge": 5211909
+      },
+      {
+        "nome": "Jaupaci",
+        "codigo_ibge": 5212006
+      },
+      {
+        "nome": "Jesúpolis",
+        "codigo_ibge": 5212055
+      },
+      {
+        "nome": "Joviânia",
+        "codigo_ibge": 5212105
+      },
+      {
+        "nome": "Jussara",
+        "codigo_ibge": 5212204
+      },
+      {
+        "nome": "Lagoa Santa",
+        "codigo_ibge": 5212253
+      },
+      {
+        "nome": "Leopoldo de Bulhões",
+        "codigo_ibge": 5212303
+      },
+      {
+        "nome": "Luziânia",
+        "codigo_ibge": 5212501
+      },
+      {
+        "nome": "Mairipotaba",
+        "codigo_ibge": 5212600
+      },
+      {
+        "nome": "Mambaí",
+        "codigo_ibge": 5212709
+      },
+      {
+        "nome": "Mara Rosa",
+        "codigo_ibge": 5212808
+      },
+      {
+        "nome": "Marzagão",
+        "codigo_ibge": 5212907
+      },
+      {
+        "nome": "Matrinchã",
+        "codigo_ibge": 5212956
+      },
+      {
+        "nome": "Maurilândia",
+        "codigo_ibge": 5213004
+      },
+      {
+        "nome": "Mimoso de Goiás",
+        "codigo_ibge": 5213053
+      },
+      {
+        "nome": "Minaçu",
+        "codigo_ibge": 5213087
+      },
+      {
+        "nome": "Mineiros",
+        "codigo_ibge": 5213103
+      },
+      {
+        "nome": "Moiporá",
+        "codigo_ibge": 5213400
+      },
+      {
+        "nome": "Monte Alegre de Goiás",
+        "codigo_ibge": 5213509
+      },
+      {
+        "nome": "Montes Claros de Goiás",
+        "codigo_ibge": 5213707
+      },
+      {
+        "nome": "Montividiu",
+        "codigo_ibge": 5213756
+      },
+      {
+        "nome": "Montividiu do Norte",
+        "codigo_ibge": 5213772
+      },
+      {
+        "nome": "Morrinhos",
+        "codigo_ibge": 5213806
+      },
+      {
+        "nome": "Morro Agudo de Goiás",
+        "codigo_ibge": 5213855
+      },
+      {
+        "nome": "Mossâmedes",
+        "codigo_ibge": 5213905
+      },
+      {
+        "nome": "Mozarlândia",
+        "codigo_ibge": 5214002
+      },
+      {
+        "nome": "Mundo Novo",
+        "codigo_ibge": 5214051
+      },
+      {
+        "nome": "Mutunópolis",
+        "codigo_ibge": 5214101
+      },
+      {
+        "nome": "Nazário",
+        "codigo_ibge": 5214408
+      },
+      {
+        "nome": "Nerópolis",
+        "codigo_ibge": 5214507
+      },
+      {
+        "nome": "Niquelândia",
+        "codigo_ibge": 5214606
+      },
+      {
+        "nome": "Nova América",
+        "codigo_ibge": 5214705
+      },
+      {
+        "nome": "Nova Aurora",
+        "codigo_ibge": 5214804
+      },
+      {
+        "nome": "Nova Crixás",
+        "codigo_ibge": 5214838
+      },
+      {
+        "nome": "Nova Glória",
+        "codigo_ibge": 5214861
+      },
+      {
+        "nome": "Nova Iguaçu de Goiás",
+        "codigo_ibge": 5214879
+      },
+      {
+        "nome": "Nova Roma",
+        "codigo_ibge": 5214903
+      },
+      {
+        "nome": "Nova Veneza",
+        "codigo_ibge": 5215009
+      },
+      {
+        "nome": "Novo Brasil",
+        "codigo_ibge": 5215207
+      },
+      {
+        "nome": "Novo Gama",
+        "codigo_ibge": 5215231
+      },
+      {
+        "nome": "Novo Planalto",
+        "codigo_ibge": 5215256
+      },
+      {
+        "nome": "Orizona",
+        "codigo_ibge": 5215306
+      },
+      {
+        "nome": "Ouro Verde de Goiás",
+        "codigo_ibge": 5215405
+      },
+      {
+        "nome": "Ouvidor",
+        "codigo_ibge": 5215504
+      },
+      {
+        "nome": "Padre Bernardo",
+        "codigo_ibge": 5215603
+      },
+      {
+        "nome": "Palestina de Goiás",
+        "codigo_ibge": 5215652
+      },
+      {
+        "nome": "Palmeiras de Goiás",
+        "codigo_ibge": 5215702
+      },
+      {
+        "nome": "Palmelo",
+        "codigo_ibge": 5215801
+      },
+      {
+        "nome": "Palminópolis",
+        "codigo_ibge": 5215900
+      },
+      {
+        "nome": "Panamá",
+        "codigo_ibge": 5216007
+      },
+      {
+        "nome": "Paranaiguara",
+        "codigo_ibge": 5216304
+      },
+      {
+        "nome": "Paraúna",
+        "codigo_ibge": 5216403
+      },
+      {
+        "nome": "Perolândia",
+        "codigo_ibge": 5216452
+      },
+      {
+        "nome": "Petrolina de Goiás",
+        "codigo_ibge": 5216809
+      },
+      {
+        "nome": "Pilar de Goiás",
+        "codigo_ibge": 5216908
+      },
+      {
+        "nome": "Piracanjuba",
+        "codigo_ibge": 5217104
+      },
+      {
+        "nome": "Piranhas",
+        "codigo_ibge": 5217203
+      },
+      {
+        "nome": "Pirenópolis",
+        "codigo_ibge": 5217302
+      },
+      {
+        "nome": "Pires do Rio",
+        "codigo_ibge": 5217401
+      },
+      {
+        "nome": "Planaltina",
+        "codigo_ibge": 5217609
+      },
+      {
+        "nome": "Pontalina",
+        "codigo_ibge": 5217708
+      },
+      {
+        "nome": "Porangatu",
+        "codigo_ibge": 5218003
+      },
+      {
+        "nome": "Porteirão",
+        "codigo_ibge": 5218052
+      },
+      {
+        "nome": "Portelândia",
+        "codigo_ibge": 5218102
+      },
+      {
+        "nome": "Posse",
+        "codigo_ibge": 5218300
+      },
+      {
+        "nome": "Professor Jamil",
+        "codigo_ibge": 5218391
+      },
+      {
+        "nome": "Quirinópolis",
+        "codigo_ibge": 5218508
+      },
+      {
+        "nome": "Rialma",
+        "codigo_ibge": 5218607
+      },
+      {
+        "nome": "Rianápolis",
+        "codigo_ibge": 5218706
+      },
+      {
+        "nome": "Rio Quente",
+        "codigo_ibge": 5218789
+      },
+      {
+        "nome": "Rio Verde",
+        "codigo_ibge": 5218805
+      },
+      {
+        "nome": "Rubiataba",
+        "codigo_ibge": 5218904
+      },
+      {
+        "nome": "Sanclerlândia",
+        "codigo_ibge": 5219001
+      },
+      {
+        "nome": "Santa Bárbara de Goiás",
+        "codigo_ibge": 5219100
+      },
+      {
+        "nome": "Santa Cruz de Goiás",
+        "codigo_ibge": 5219209
+      },
+      {
+        "nome": "Santa Fé de Goiás",
+        "codigo_ibge": 5219258
+      },
+      {
+        "nome": "Santa Helena de Goiás",
+        "codigo_ibge": 5219308
+      },
+      {
+        "nome": "Santa Isabel",
+        "codigo_ibge": 5219357
+      },
+      {
+        "nome": "Santa Rita do Araguaia",
+        "codigo_ibge": 5219407
+      },
+      {
+        "nome": "Santa Rita do Novo Destino",
+        "codigo_ibge": 5219456
+      },
+      {
+        "nome": "Santa Rosa de Goiás",
+        "codigo_ibge": 5219506
+      },
+      {
+        "nome": "Santa Tereza de Goiás",
+        "codigo_ibge": 5219605
+      },
+      {
+        "nome": "Santa Terezinha de Goiás",
+        "codigo_ibge": 5219704
+      },
+      {
+        "nome": "Santo Antônio da Barra",
+        "codigo_ibge": 5219712
+      },
+      {
+        "nome": "Santo Antônio de Goiás",
+        "codigo_ibge": 5219738
+      },
+      {
+        "nome": "Santo Antônio do Descoberto",
+        "codigo_ibge": 5219753
+      },
+      {
+        "nome": "São Domingos",
+        "codigo_ibge": 5219803
+      },
+      {
+        "nome": "São Francisco de Goiás",
+        "codigo_ibge": 5219902
+      },
+      {
+        "nome": "São João da Paraúna",
+        "codigo_ibge": 5220058
+      },
+      {
+        "nome": "São João d'Aliança",
+        "codigo_ibge": 5220009
+      },
+      {
+        "nome": "São Luís de Montes Belos",
+        "codigo_ibge": 5220108
+      },
+      {
+        "nome": "São Luiz do Norte",
+        "codigo_ibge": 5220157
+      },
+      {
+        "nome": "São Miguel do Araguaia",
+        "codigo_ibge": 5220207
+      },
+      {
+        "nome": "São Miguel do Passa-Quatro",
+        "codigo_ibge": 5220264
+      },
+      {
+        "nome": "São Patrício",
+        "codigo_ibge": 5220280
+      },
+      {
+        "nome": "São Simão",
+        "codigo_ibge": 5220405
+      },
+      {
+        "nome": "Senador Canedo",
+        "codigo_ibge": 5220454
+      },
+      {
+        "nome": "Serranópolis",
+        "codigo_ibge": 5220504
+      },
+      {
+        "nome": "Silvânia",
+        "codigo_ibge": 5220603
+      },
+      {
+        "nome": "Simolândia",
+        "codigo_ibge": 5220686
+      },
+      {
+        "nome": "Sítio d'Abadia",
+        "codigo_ibge": 5220702
+      },
+      {
+        "nome": "Taquaral de Goiás",
+        "codigo_ibge": 5221007
+      },
+      {
+        "nome": "Teresina de Goiás",
+        "codigo_ibge": 5221080
+      },
+      {
+        "nome": "Terezópolis de Goiás",
+        "codigo_ibge": 5221197
+      },
+      {
+        "nome": "Três Ranchos",
+        "codigo_ibge": 5221304
+      },
+      {
+        "nome": "Trindade",
+        "codigo_ibge": 5221403
+      },
+      {
+        "nome": "Trombas",
+        "codigo_ibge": 5221452
+      },
+      {
+        "nome": "Turvânia",
+        "codigo_ibge": 5221502
+      },
+      {
+        "nome": "Turvelândia",
+        "codigo_ibge": 5221551
+      },
+      {
+        "nome": "Uirapuru",
+        "codigo_ibge": 5221577
+      },
+      {
+        "nome": "Uruaçu",
+        "codigo_ibge": 5221601
+      },
+      {
+        "nome": "Uruana",
+        "codigo_ibge": 5221700
+      },
+      {
+        "nome": "Urutaí",
+        "codigo_ibge": 5221809
+      },
+      {
+        "nome": "Valparaíso de Goiás",
+        "codigo_ibge": 5221858
+      },
+      {
+        "nome": "Varjão",
+        "codigo_ibge": 5221908
+      },
+      {
+        "nome": "Vianópolis",
+        "codigo_ibge": 5222005
+      },
+      {
+        "nome": "Vicentinópolis",
+        "codigo_ibge": 5222054
+      },
+      {
+        "nome": "Vila Boa",
+        "codigo_ibge": 5222203
+      },
+      {
+        "nome": "Vila Propício",
+        "codigo_ibge": 5222302
+      }
+    ]
   }
 }

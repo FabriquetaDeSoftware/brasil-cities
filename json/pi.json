@@ -2,6 +2,899 @@
   "estado": {
     "sigla": "PI",
     "nome": "Piauí",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Agricolândia",
+        "codigo_ibge": 2200103
+      },
+      {
+        "nome": "Água Branca",
+        "codigo_ibge": 2200202
+      },
+      {
+        "nome": "Alagoinha do Piauí",
+        "codigo_ibge": 2200251
+      },
+      {
+        "nome": "Alegrete do Piauí",
+        "codigo_ibge": 2200277
+      },
+      {
+        "nome": "Alto Longá",
+        "codigo_ibge": 2200301
+      },
+      {
+        "nome": "Altos",
+        "codigo_ibge": 2200400
+      },
+      {
+        "nome": "Alvorada do Gurgueia",
+        "codigo_ibge": 2200459
+      },
+      {
+        "nome": "Amarante",
+        "codigo_ibge": 2200509
+      },
+      {
+        "nome": "Angical do Piauí",
+        "codigo_ibge": 2200608
+      },
+      {
+        "nome": "Anísio de Abreu",
+        "codigo_ibge": 2200707
+      },
+      {
+        "nome": "Antônio Almeida",
+        "codigo_ibge": 2200806
+      },
+      {
+        "nome": "Aroazes",
+        "codigo_ibge": 2200905
+      },
+      {
+        "nome": "Aroeiras do Itaim",
+        "codigo_ibge": 2200954
+      },
+      {
+        "nome": "Arraial",
+        "codigo_ibge": 2201002
+      },
+      {
+        "nome": "Assunção do Piauí",
+        "codigo_ibge": 2201051
+      },
+      {
+        "nome": "Avelino Lopes",
+        "codigo_ibge": 2201101
+      },
+      {
+        "nome": "Baixa Grande do Ribeiro",
+        "codigo_ibge": 2201150
+      },
+      {
+        "nome": "Barra d'Alcântara",
+        "codigo_ibge": 2201176
+      },
+      {
+        "nome": "Barras",
+        "codigo_ibge": 2201200
+      },
+      {
+        "nome": "Barreiras do Piauí",
+        "codigo_ibge": 2201309
+      },
+      {
+        "nome": "Barro Duro",
+        "codigo_ibge": 2201408
+      },
+      {
+        "nome": "Batalha",
+        "codigo_ibge": 2201507
+      },
+      {
+        "nome": "Bela Vista do Piauí",
+        "codigo_ibge": 2201556
+      },
+      {
+        "nome": "Belém do Piauí",
+        "codigo_ibge": 2201572
+      },
+      {
+        "nome": "Beneditinos",
+        "codigo_ibge": 2201606
+      },
+      {
+        "nome": "Bertolínia",
+        "codigo_ibge": 2201705
+      },
+      {
+        "nome": "Betânia do Piauí",
+        "codigo_ibge": 2201739
+      },
+      {
+        "nome": "Boa Hora",
+        "codigo_ibge": 2201770
+      },
+      {
+        "nome": "Bocaina",
+        "codigo_ibge": 2201804
+      },
+      {
+        "nome": "Bom Jesus",
+        "codigo_ibge": 2201903
+      },
+      {
+        "nome": "Bom Princípio do Piauí",
+        "codigo_ibge": 2201919
+      },
+      {
+        "nome": "Bonfim do Piauí",
+        "codigo_ibge": 2201929
+      },
+      {
+        "nome": "Boqueirão do Piauí",
+        "codigo_ibge": 2201945
+      },
+      {
+        "nome": "Brasileira",
+        "codigo_ibge": 2201960
+      },
+      {
+        "nome": "Brejo do Piauí",
+        "codigo_ibge": 2201988
+      },
+      {
+        "nome": "Buriti dos Lopes",
+        "codigo_ibge": 2202000
+      },
+      {
+        "nome": "Buriti dos Montes",
+        "codigo_ibge": 2202026
+      },
+      {
+        "nome": "Cabeceiras do Piauí",
+        "codigo_ibge": 2202059
+      },
+      {
+        "nome": "Cajazeiras do Piauí",
+        "codigo_ibge": 2202075
+      },
+      {
+        "nome": "Cajueiro da Praia",
+        "codigo_ibge": 2202083
+      },
+      {
+        "nome": "Caldeirão Grande do Piauí",
+        "codigo_ibge": 2202091
+      },
+      {
+        "nome": "Campinas do Piauí",
+        "codigo_ibge": 2202109
+      },
+      {
+        "nome": "Campo Alegre do Fidalgo",
+        "codigo_ibge": 2202117
+      },
+      {
+        "nome": "Campo Grande do Piauí",
+        "codigo_ibge": 2202133
+      },
+      {
+        "nome": "Campo Largo do Piauí",
+        "codigo_ibge": 2202174
+      },
+      {
+        "nome": "Campo Maior",
+        "codigo_ibge": 2202208
+      },
+      {
+        "nome": "Canavieira",
+        "codigo_ibge": 2202251
+      },
+      {
+        "nome": "Canto do Buriti",
+        "codigo_ibge": 2202307
+      },
+      {
+        "nome": "Capitão de Campos",
+        "codigo_ibge": 2202406
+      },
+      {
+        "nome": "Capitão Gervásio Oliveira",
+        "codigo_ibge": 2202455
+      },
+      {
+        "nome": "Caracol",
+        "codigo_ibge": 2202505
+      },
+      {
+        "nome": "Caraúbas do Piauí",
+        "codigo_ibge": 2202539
+      },
+      {
+        "nome": "Caridade do Piauí",
+        "codigo_ibge": 2202554
+      },
+      {
+        "nome": "Castelo do Piauí",
+        "codigo_ibge": 2202604
+      },
+      {
+        "nome": "Caxingó",
+        "codigo_ibge": 2202653
+      },
+      {
+        "nome": "Cocal",
+        "codigo_ibge": 2202703
+      },
+      {
+        "nome": "Cocal de Telha",
+        "codigo_ibge": 2202711
+      },
+      {
+        "nome": "Cocal dos Alves",
+        "codigo_ibge": 2202729
+      },
+      {
+        "nome": "Coivaras",
+        "codigo_ibge": 2202737
+      },
+      {
+        "nome": "Colônia do Gurgueia",
+        "codigo_ibge": 2202752
+      },
+      {
+        "nome": "Colônia do Piauí",
+        "codigo_ibge": 2202778
+      },
+      {
+        "nome": "Conceição do Canindé",
+        "codigo_ibge": 2202802
+      },
+      {
+        "nome": "Coronel José Dias",
+        "codigo_ibge": 2202851
+      },
+      {
+        "nome": "Corrente",
+        "codigo_ibge": 2202901
+      },
+      {
+        "nome": "Cristalândia do Piauí",
+        "codigo_ibge": 2203008
+      },
+      {
+        "nome": "Cristino Castro",
+        "codigo_ibge": 2203107
+      },
+      {
+        "nome": "Curimatá",
+        "codigo_ibge": 2203206
+      },
+      {
+        "nome": "Currais",
+        "codigo_ibge": 2203230
+      },
+      {
+        "nome": "Curral Novo do Piauí",
+        "codigo_ibge": 2203271
+      },
+      {
+        "nome": "Curralinhos",
+        "codigo_ibge": 2203255
+      },
+      {
+        "nome": "Demerval Lobão",
+        "codigo_ibge": 2203305
+      },
+      {
+        "nome": "Dirceu Arcoverde",
+        "codigo_ibge": 2203354
+      },
+      {
+        "nome": "Dom Expedito Lopes",
+        "codigo_ibge": 2203404
+      },
+      {
+        "nome": "Dom Inocêncio",
+        "codigo_ibge": 2203453
+      },
+      {
+        "nome": "Domingos Mourão",
+        "codigo_ibge": 2203420
+      },
+      {
+        "nome": "Elesbão Veloso",
+        "codigo_ibge": 2203503
+      },
+      {
+        "nome": "Eliseu Martins",
+        "codigo_ibge": 2203602
+      },
+      {
+        "nome": "Esperantina",
+        "codigo_ibge": 2203701
+      },
+      {
+        "nome": "Fartura do Piauí",
+        "codigo_ibge": 2203750
+      },
+      {
+        "nome": "Flores do Piauí",
+        "codigo_ibge": 2203800
+      },
+      {
+        "nome": "Floresta do Piauí",
+        "codigo_ibge": 2203859
+      },
+      {
+        "nome": "Floriano",
+        "codigo_ibge": 2203909
+      },
+      {
+        "nome": "Francinópolis",
+        "codigo_ibge": 2204006
+      },
+      {
+        "nome": "Francisco Ayres",
+        "codigo_ibge": 2204105
+      },
+      {
+        "nome": "Francisco Macedo",
+        "codigo_ibge": 2204154
+      },
+      {
+        "nome": "Francisco Santos",
+        "codigo_ibge": 2204204
+      },
+      {
+        "nome": "Fronteiras",
+        "codigo_ibge": 2204303
+      },
+      {
+        "nome": "Geminiano",
+        "codigo_ibge": 2204352
+      },
+      {
+        "nome": "Gilbués",
+        "codigo_ibge": 2204402
+      },
+      {
+        "nome": "Guadalupe",
+        "codigo_ibge": 2204501
+      },
+      {
+        "nome": "Guaribas",
+        "codigo_ibge": 2204550
+      },
+      {
+        "nome": "Hugo Napoleão",
+        "codigo_ibge": 2204600
+      },
+      {
+        "nome": "Ilha Grande",
+        "codigo_ibge": 2204659
+      },
+      {
+        "nome": "Inhuma",
+        "codigo_ibge": 2204709
+      },
+      {
+        "nome": "Ipiranga do Piauí",
+        "codigo_ibge": 2204808
+      },
+      {
+        "nome": "Isaías Coelho",
+        "codigo_ibge": 2204907
+      },
+      {
+        "nome": "Itainópolis",
+        "codigo_ibge": 2205003
+      },
+      {
+        "nome": "Itaueira",
+        "codigo_ibge": 2205102
+      },
+      {
+        "nome": "Jacobina do Piauí",
+        "codigo_ibge": 2205151
+      },
+      {
+        "nome": "Jaicós",
+        "codigo_ibge": 2205201
+      },
+      {
+        "nome": "Jardim do Mulato",
+        "codigo_ibge": 2205250
+      },
+      {
+        "nome": "Jatobá do Piauí",
+        "codigo_ibge": 2205276
+      },
+      {
+        "nome": "Jerumenha",
+        "codigo_ibge": 2205300
+      },
+      {
+        "nome": "João Costa",
+        "codigo_ibge": 2205359
+      },
+      {
+        "nome": "Joaquim Pires",
+        "codigo_ibge": 2205409
+      },
+      {
+        "nome": "Joca Marques",
+        "codigo_ibge": 2205458
+      },
+      {
+        "nome": "José de Freitas",
+        "codigo_ibge": 2205508
+      },
+      {
+        "nome": "Juazeiro do Piauí",
+        "codigo_ibge": 2205516
+      },
+      {
+        "nome": "Júlio Borges",
+        "codigo_ibge": 2205524
+      },
+      {
+        "nome": "Jurema",
+        "codigo_ibge": 2205532
+      },
+      {
+        "nome": "Lagoa Alegre",
+        "codigo_ibge": 2205557
+      },
+      {
+        "nome": "Lagoa de São Francisco",
+        "codigo_ibge": 2205573
+      },
+      {
+        "nome": "Lagoa do Barro do Piauí",
+        "codigo_ibge": 2205565
+      },
+      {
+        "nome": "Lagoa do Piauí",
+        "codigo_ibge": 2205581
+      },
+      {
+        "nome": "Lagoa do Sítio",
+        "codigo_ibge": 2205599
+      },
+      {
+        "nome": "Lagoinha do Piauí",
+        "codigo_ibge": 2205540
+      },
+      {
+        "nome": "Landri Sales",
+        "codigo_ibge": 2205607
+      },
+      {
+        "nome": "Luís Correia",
+        "codigo_ibge": 2205706
+      },
+      {
+        "nome": "Luzilândia",
+        "codigo_ibge": 2205805
+      },
+      {
+        "nome": "Madeiro",
+        "codigo_ibge": 2205854
+      },
+      {
+        "nome": "Manoel Emídio",
+        "codigo_ibge": 2205904
+      },
+      {
+        "nome": "Marcolândia",
+        "codigo_ibge": 2205953
+      },
+      {
+        "nome": "Marcos Parente",
+        "codigo_ibge": 2206001
+      },
+      {
+        "nome": "Massapê do Piauí",
+        "codigo_ibge": 2206050
+      },
+      {
+        "nome": "Matias Olímpio",
+        "codigo_ibge": 2206100
+      },
+      {
+        "nome": "Miguel Alves",
+        "codigo_ibge": 2206209
+      },
+      {
+        "nome": "Miguel Leão",
+        "codigo_ibge": 2206308
+      },
+      {
+        "nome": "Milton Brandão",
+        "codigo_ibge": 2206357
+      },
+      {
+        "nome": "Monsenhor Gil",
+        "codigo_ibge": 2206407
+      },
+      {
+        "nome": "Monsenhor Hipólito",
+        "codigo_ibge": 2206506
+      },
+      {
+        "nome": "Monte Alegre do Piauí",
+        "codigo_ibge": 2206605
+      },
+      {
+        "nome": "Morro Cabeça no Tempo",
+        "codigo_ibge": 2206654
+      },
+      {
+        "nome": "Morro do Chapéu do Piauí",
+        "codigo_ibge": 2206670
+      },
+      {
+        "nome": "Murici dos Portelas",
+        "codigo_ibge": 2206696
+      },
+      {
+        "nome": "Nazaré do Piauí",
+        "codigo_ibge": 2206704
+      },
+      {
+        "nome": "Nazária",
+        "codigo_ibge": 2206720
+      },
+      {
+        "nome": "Nossa Senhora de Nazaré",
+        "codigo_ibge": 2206753
+      },
+      {
+        "nome": "Nossa Senhora dos Remédios",
+        "codigo_ibge": 2206803
+      },
+      {
+        "nome": "Nova Santa Rita",
+        "codigo_ibge": 2207959
+      },
+      {
+        "nome": "Novo Oriente do Piauí",
+        "codigo_ibge": 2206902
+      },
+      {
+        "nome": "Novo Santo Antônio",
+        "codigo_ibge": 2206951
+      },
+      {
+        "nome": "Oeiras",
+        "codigo_ibge": 2207009
+      },
+      {
+        "nome": "Olho d'Água do Piauí",
+        "codigo_ibge": 2207108
+      },
+      {
+        "nome": "Padre Marcos",
+        "codigo_ibge": 2207207
+      },
+      {
+        "nome": "Paes Landim",
+        "codigo_ibge": 2207306
+      },
+      {
+        "nome": "Pajeú do Piauí",
+        "codigo_ibge": 2207355
+      },
+      {
+        "nome": "Palmeira do Piauí",
+        "codigo_ibge": 2207405
+      },
+      {
+        "nome": "Palmeirais",
+        "codigo_ibge": 2207504
+      },
+      {
+        "nome": "Paquetá",
+        "codigo_ibge": 2207553
+      },
+      {
+        "nome": "Parnaguá",
+        "codigo_ibge": 2207603
+      },
+      {
+        "nome": "Parnaíba",
+        "codigo_ibge": 2207702
+      },
+      {
+        "nome": "Passagem Franca do Piauí",
+        "codigo_ibge": 2207751
+      },
+      {
+        "nome": "Patos do Piauí",
+        "codigo_ibge": 2207777
+      },
+      {
+        "nome": "Pau d'Arco do Piauí",
+        "codigo_ibge": 2207793
+      },
+      {
+        "nome": "Paulistana",
+        "codigo_ibge": 2207801
+      },
+      {
+        "nome": "Pavussu",
+        "codigo_ibge": 2207850
+      },
+      {
+        "nome": "Pedro II",
+        "codigo_ibge": 2207900
+      },
+      {
+        "nome": "Pedro Laurentino",
+        "codigo_ibge": 2207934
+      },
+      {
+        "nome": "Picos",
+        "codigo_ibge": 2208007
+      },
+      {
+        "nome": "Pimenteiras",
+        "codigo_ibge": 2208106
+      },
+      {
+        "nome": "Pio IX",
+        "codigo_ibge": 2208205
+      },
+      {
+        "nome": "Piracuruca",
+        "codigo_ibge": 2208304
+      },
+      {
+        "nome": "Piripiri",
+        "codigo_ibge": 2208403
+      },
+      {
+        "nome": "Porto",
+        "codigo_ibge": 2208502
+      },
+      {
+        "nome": "Porto Alegre do Piauí",
+        "codigo_ibge": 2208551
+      },
+      {
+        "nome": "Prata do Piauí",
+        "codigo_ibge": 2208601
+      },
+      {
+        "nome": "Queimada Nova",
+        "codigo_ibge": 2208650
+      },
+      {
+        "nome": "Redenção do Gurgueia",
+        "codigo_ibge": 2208700
+      },
+      {
+        "nome": "Regeneração",
+        "codigo_ibge": 2208809
+      },
+      {
+        "nome": "Riacho Frio",
+        "codigo_ibge": 2208858
+      },
+      {
+        "nome": "Ribeira do Piauí",
+        "codigo_ibge": 2208874
+      },
+      {
+        "nome": "Ribeiro Gonçalves",
+        "codigo_ibge": 2208908
+      },
+      {
+        "nome": "Rio Grande do Piauí",
+        "codigo_ibge": 2209005
+      },
+      {
+        "nome": "Santa Cruz do Piauí",
+        "codigo_ibge": 2209104
+      },
+      {
+        "nome": "Santa Cruz dos Milagres",
+        "codigo_ibge": 2209153
+      },
+      {
+        "nome": "Santa Filomena",
+        "codigo_ibge": 2209203
+      },
+      {
+        "nome": "Santa Luz",
+        "codigo_ibge": 2209302
+      },
+      {
+        "nome": "Santa Rosa do Piauí",
+        "codigo_ibge": 2209377
+      },
+      {
+        "nome": "Santana do Piauí",
+        "codigo_ibge": 2209351
+      },
+      {
+        "nome": "Santo Antônio de Lisboa",
+        "codigo_ibge": 2209401
+      },
+      {
+        "nome": "Santo Antônio dos Milagres",
+        "codigo_ibge": 2209450
+      },
+      {
+        "nome": "Santo Inácio do Piauí",
+        "codigo_ibge": 2209500
+      },
+      {
+        "nome": "São Braz do Piauí",
+        "codigo_ibge": 2209559
+      },
+      {
+        "nome": "São Félix do Piauí",
+        "codigo_ibge": 2209609
+      },
+      {
+        "nome": "São Francisco de Assis do Piauí",
+        "codigo_ibge": 2209658
+      },
+      {
+        "nome": "São Francisco do Piauí",
+        "codigo_ibge": 2209708
+      },
+      {
+        "nome": "São Gonçalo do Gurgueia",
+        "codigo_ibge": 2209757
+      },
+      {
+        "nome": "São Gonçalo do Piauí",
+        "codigo_ibge": 2209807
+      },
+      {
+        "nome": "São João da Canabrava",
+        "codigo_ibge": 2209856
+      },
+      {
+        "nome": "São João da Fronteira",
+        "codigo_ibge": 2209872
+      },
+      {
+        "nome": "São João da Serra",
+        "codigo_ibge": 2209906
+      },
+      {
+        "nome": "São João da Varjota",
+        "codigo_ibge": 2209955
+      },
+      {
+        "nome": "São João do Arraial",
+        "codigo_ibge": 2209971
+      },
+      {
+        "nome": "São João do Piauí",
+        "codigo_ibge": 2210003
+      },
+      {
+        "nome": "São José do Divino",
+        "codigo_ibge": 2210052
+      },
+      {
+        "nome": "São José do Peixe",
+        "codigo_ibge": 2210102
+      },
+      {
+        "nome": "São José do Piauí",
+        "codigo_ibge": 2210201
+      },
+      {
+        "nome": "São Julião",
+        "codigo_ibge": 2210300
+      },
+      {
+        "nome": "São Lourenço do Piauí",
+        "codigo_ibge": 2210359
+      },
+      {
+        "nome": "São Luís do Piauí",
+        "codigo_ibge": 2210375
+      },
+      {
+        "nome": "São Miguel da Baixa Grande",
+        "codigo_ibge": 2210383
+      },
+      {
+        "nome": "São Miguel do Fidalgo",
+        "codigo_ibge": 2210391
+      },
+      {
+        "nome": "São Miguel do Tapuio",
+        "codigo_ibge": 2210409
+      },
+      {
+        "nome": "São Pedro do Piauí",
+        "codigo_ibge": 2210508
+      },
+      {
+        "nome": "São Raimundo Nonato",
+        "codigo_ibge": 2210607
+      },
+      {
+        "nome": "Sebastião Barros",
+        "codigo_ibge": 2210623
+      },
+      {
+        "nome": "Sebastião Leal",
+        "codigo_ibge": 2210631
+      },
+      {
+        "nome": "Sigefredo Pacheco",
+        "codigo_ibge": 2210656
+      },
+      {
+        "nome": "Simões",
+        "codigo_ibge": 2210706
+      },
+      {
+        "nome": "Simplício Mendes",
+        "codigo_ibge": 2210805
+      },
+      {
+        "nome": "Socorro do Piauí",
+        "codigo_ibge": 2210904
+      },
+      {
+        "nome": "Sussuapara",
+        "codigo_ibge": 2210938
+      },
+      {
+        "nome": "Tamboril do Piauí",
+        "codigo_ibge": 2210953
+      },
+      {
+        "nome": "Tanque do Piauí",
+        "codigo_ibge": 2210979
+      },
+      {
+        "nome": "Teresina",
+        "codigo_ibge": 2211001
+      },
+      {
+        "nome": "União",
+        "codigo_ibge": 2211100
+      },
+      {
+        "nome": "Uruçuí",
+        "codigo_ibge": 2211209
+      },
+      {
+        "nome": "Valença do Piauí",
+        "codigo_ibge": 2211308
+      },
+      {
+        "nome": "Várzea Branca",
+        "codigo_ibge": 2211357
+      },
+      {
+        "nome": "Várzea Grande",
+        "codigo_ibge": 2211407
+      },
+      {
+        "nome": "Vera Mendes",
+        "codigo_ibge": 2211506
+      },
+      {
+        "nome": "Vila Nova do Piauí",
+        "codigo_ibge": 2211605
+      },
+      {
+        "nome": "Wall Ferraz",
+        "codigo_ibge": 2211704
+      }
+    ]
   }
 }

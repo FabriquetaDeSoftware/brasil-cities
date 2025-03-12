@@ -2,6 +2,315 @@
   "estado": {
     "sigla": "ES",
     "nome": "Espírito Santo",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Água Doce do Norte",
+        "codigo_ibge": 3200136
+      },
+      {
+        "nome": "Águia Branca",
+        "codigo_ibge": 3200169
+      },
+      {
+        "nome": "Alegre",
+        "codigo_ibge": 3200201
+      },
+      {
+        "nome": "Alfredo Chaves",
+        "codigo_ibge": 3200300
+      },
+      {
+        "nome": "Alto Rio Novo",
+        "codigo_ibge": 3200359
+      },
+      {
+        "nome": "Anchieta",
+        "codigo_ibge": 3200409
+      },
+      {
+        "nome": "Apiacá",
+        "codigo_ibge": 3200508
+      },
+      {
+        "nome": "Aracruz",
+        "codigo_ibge": 3200607
+      },
+      {
+        "nome": "Atílio Vivácqua",
+        "codigo_ibge": 3200706
+      },
+      {
+        "nome": "Baixo Guandu",
+        "codigo_ibge": 3200805
+      },
+      {
+        "nome": "Barra de São Francisco",
+        "codigo_ibge": 3200904
+      },
+      {
+        "nome": "Boa Esperança",
+        "codigo_ibge": 3201001
+      },
+      {
+        "nome": "Bom Jesus do Norte",
+        "codigo_ibge": 3201100
+      },
+      {
+        "nome": "Brejetuba",
+        "codigo_ibge": 3201159
+      },
+      {
+        "nome": "Cachoeiro de Itapemirim",
+        "codigo_ibge": 3201209
+      },
+      {
+        "nome": "Cariacica",
+        "codigo_ibge": 3201308
+      },
+      {
+        "nome": "Castelo",
+        "codigo_ibge": 3201407
+      },
+      {
+        "nome": "Colatina",
+        "codigo_ibge": 3201506
+      },
+      {
+        "nome": "Conceição da Barra",
+        "codigo_ibge": 3201605
+      },
+      {
+        "nome": "Conceição do Castelo",
+        "codigo_ibge": 3201704
+      },
+      {
+        "nome": "Divino de São Lourenço",
+        "codigo_ibge": 3201803
+      },
+      {
+        "nome": "Domingos Martins",
+        "codigo_ibge": 3201902
+      },
+      {
+        "nome": "Dores do Rio Preto",
+        "codigo_ibge": 3202009
+      },
+      {
+        "nome": "Ecoporanga",
+        "codigo_ibge": 3202108
+      },
+      {
+        "nome": "Fundão",
+        "codigo_ibge": 3202207
+      },
+      {
+        "nome": "Governador Lindenberg",
+        "codigo_ibge": 3202256
+      },
+      {
+        "nome": "Guaçuí",
+        "codigo_ibge": 3202306
+      },
+      {
+        "nome": "Guarapari",
+        "codigo_ibge": 3202405
+      },
+      {
+        "nome": "Ibatiba",
+        "codigo_ibge": 3202454
+      },
+      {
+        "nome": "Ibiraçu",
+        "codigo_ibge": 3202504
+      },
+      {
+        "nome": "Ibitirama",
+        "codigo_ibge": 3202553
+      },
+      {
+        "nome": "Iconha",
+        "codigo_ibge": 3202603
+      },
+      {
+        "nome": "Irupi",
+        "codigo_ibge": 3202652
+      },
+      {
+        "nome": "Itaguaçu",
+        "codigo_ibge": 3202702
+      },
+      {
+        "nome": "Itapemirim",
+        "codigo_ibge": 3202801
+      },
+      {
+        "nome": "Itarana",
+        "codigo_ibge": 3202900
+      },
+      {
+        "nome": "Iúna",
+        "codigo_ibge": 3203007
+      },
+      {
+        "nome": "Jaguaré",
+        "codigo_ibge": 3203056
+      },
+      {
+        "nome": "Jerônimo Monteiro",
+        "codigo_ibge": 3203106
+      },
+      {
+        "nome": "João Neiva",
+        "codigo_ibge": 3203130
+      },
+      {
+        "nome": "Laranja da Terra",
+        "codigo_ibge": 3203163
+      },
+      {
+        "nome": "Linhares",
+        "codigo_ibge": 3203205
+      },
+      {
+        "nome": "Mantenópolis",
+        "codigo_ibge": 3203304
+      },
+      {
+        "nome": "Marataízes",
+        "codigo_ibge": 3203320
+      },
+      {
+        "nome": "Marechal Floriano",
+        "codigo_ibge": 3203346
+      },
+      {
+        "nome": "Marilândia",
+        "codigo_ibge": 3203353
+      },
+      {
+        "nome": "Mimoso do Sul",
+        "codigo_ibge": 3203403
+      },
+      {
+        "nome": "Montanha",
+        "codigo_ibge": 3203502
+      },
+      {
+        "nome": "Mucurici",
+        "codigo_ibge": 3203601
+      },
+      {
+        "nome": "Muniz Freire",
+        "codigo_ibge": 3203700
+      },
+      {
+        "nome": "Muqui",
+        "codigo_ibge": 3203809
+      },
+      {
+        "nome": "Nova Venécia",
+        "codigo_ibge": 3203908
+      },
+      {
+        "nome": "Pancas",
+        "codigo_ibge": 3204005
+      },
+      {
+        "nome": "Pedro Canário",
+        "codigo_ibge": 3204054
+      },
+      {
+        "nome": "Pinheiros",
+        "codigo_ibge": 3204104
+      },
+      {
+        "nome": "Piúma",
+        "codigo_ibge": 3204203
+      },
+      {
+        "nome": "Ponto Belo",
+        "codigo_ibge": 3204252
+      },
+      {
+        "nome": "Presidente Kennedy",
+        "codigo_ibge": 3204302
+      },
+      {
+        "nome": "Rio Bananal",
+        "codigo_ibge": 3204351
+      },
+      {
+        "nome": "Rio Novo do Sul",
+        "codigo_ibge": 3204401
+      },
+      {
+        "nome": "Santa Leopoldina",
+        "codigo_ibge": 3204500
+      },
+      {
+        "nome": "Santa Maria de Jetibá",
+        "codigo_ibge": 3204559
+      },
+      {
+        "nome": "Santa Teresa",
+        "codigo_ibge": 3204609
+      },
+      {
+        "nome": "São Domingos do Norte",
+        "codigo_ibge": 3204658
+      },
+      {
+        "nome": "São Gabriel da Palha",
+        "codigo_ibge": 3204708
+      },
+      {
+        "nome": "São José do Calçado",
+        "codigo_ibge": 3204807
+      },
+      {
+        "nome": "São Mateus",
+        "codigo_ibge": 3204906
+      },
+      {
+        "nome": "São Roque do Canaã",
+        "codigo_ibge": 3204955
+      },
+      {
+        "nome": "Serra",
+        "codigo_ibge": 3205002
+      },
+      {
+        "nome": "Sooretama",
+        "codigo_ibge": 3205010
+      },
+      {
+        "nome": "Vargem Alta",
+        "codigo_ibge": 3205036
+      },
+      {
+        "nome": "Venda Nova do Imigrante",
+        "codigo_ibge": 3205069
+      },
+      {
+        "nome": "Viana",
+        "codigo_ibge": 3205101
+      },
+      {
+        "nome": "Vila Pavão",
+        "codigo_ibge": 3205150
+      },
+      {
+        "nome": "Vila Valério",
+        "codigo_ibge": 3205176
+      },
+      {
+        "nome": "Vila Velha",
+        "codigo_ibge": 3205200
+      },
+      {
+        "nome": "Vitória†",
+        "codigo_ibge": 3205309
+      }
+    ]
   }
 }

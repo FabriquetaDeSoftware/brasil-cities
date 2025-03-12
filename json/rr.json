@@ -2,6 +2,63 @@
   "estado": {
     "sigla": "RR",
     "nome": "Roraima",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Alto Alegre",
+        "codigo_ibge": 1400027
+      },
+      {
+        "nome": "Boa Vista",
+        "codigo_ibge": 1400100
+      },
+      {
+        "nome": "Bonfim",
+        "codigo_ibge": 1400159
+      },
+      {
+        "nome": "Cantá",
+        "codigo_ibge": 1400175
+      },
+      {
+        "nome": "Caracaraí",
+        "codigo_ibge": 1400209
+      },
+      {
+        "nome": "Caroebe",
+        "codigo_ibge": 1400233
+      },
+      {
+        "nome": "Iracema",
+        "codigo_ibge": 1400282
+      },
+      {
+        "nome": "Mucajaí",
+        "codigo_ibge": 1400308
+      },
+      {
+        "nome": "Normandia",
+        "codigo_ibge": 1400407
+      },
+      {
+        "nome": "Pacaraima",
+        "codigo_ibge": 1400456
+      },
+      {
+        "nome": "Rorainópolis",
+        "codigo_ibge": 1400472
+      },
+      {
+        "nome": "São João da Baliza",
+        "codigo_ibge": 1400506
+      },
+      {
+        "nome": "São Luiz",
+        "codigo_ibge": 1400605
+      },
+      {
+        "nome": "Uiramutã",
+        "codigo_ibge": 1400704
+      }
+    ]
   }
 }

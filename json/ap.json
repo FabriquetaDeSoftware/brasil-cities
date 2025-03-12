@@ -2,6 +2,63 @@
   "estado": {
     "sigla": "AP",
     "nome": "Amapá",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Cutias",
+        "codigo_ibge": 1600212
+      },
+      {
+        "nome": "Ferreira Gomes",
+        "codigo_ibge": 1600238
+      },
+      {
+        "nome": "Itaubal",
+        "codigo_ibge": 1600253
+      },
+      {
+        "nome": "Laranjal do Jari",
+        "codigo_ibge": 1600279
+      },
+      {
+        "nome": "Macapá",
+        "codigo_ibge": 1600303
+      },
+      {
+        "nome": "Mazagão",
+        "codigo_ibge": 1600402
+      },
+      {
+        "nome": "Oiapoque",
+        "codigo_ibge": 1600501
+      },
+      {
+        "nome": "Pedra Branca do Amapari",
+        "codigo_ibge": 1600154
+      },
+      {
+        "nome": "Porto Grande",
+        "codigo_ibge": 1600535
+      },
+      {
+        "nome": "Pracuúba",
+        "codigo_ibge": 1600550
+      },
+      {
+        "nome": "Santana",
+        "codigo_ibge": 1600600
+      },
+      {
+        "nome": "Serra do Navio",
+        "codigo_ibge": 1600055
+      },
+      {
+        "nome": "Tartarugalzinho",
+        "codigo_ibge": 1600709
+      },
+      {
+        "nome": "Vitória do Jari",
+        "codigo_ibge": 1600808
+      }
+    ]
   }
 }

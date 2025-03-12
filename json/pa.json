@@ -2,6 +2,383 @@
   "estado": {
     "sigla": "PA",
     "nome": "Pará",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Abel Figueiredo",
+        "codigo_ibge": 1964
+      },
+      {
+        "nome": "Acará",
+        "codigo_ibge": 1758
+      },
+      {
+        "nome": "Afuá",
+        "codigo_ibge": 1845
+      },
+      {
+        "nome": "Água Azul do Norte",
+        "codigo_ibge": 1978
+      },
+      {
+        "nome": "Alenquer",
+        "codigo_ibge": 1729
+      },
+      {
+        "nome": "Almeirim",
+        "codigo_ibge": 1620
+      },
+      {
+        "nome": "Altamira",
+        "codigo_ibge": 1750
+      },
+      {
+        "nome": "Anajás",
+        "codigo_ibge": 1869
+      },
+      {
+        "nome": "Ananindeua",
+        "codigo_ibge": 1920
+      },
+      {
+        "nome": "Anapu",
+        "codigo_ibge": 1977
+      },
+      {
+        "nome": "Augusto Corrêa",
+        "codigo_ibge": 1875
+      },
+      {
+        "nome": "Aurora do Pará",
+        "codigo_ibge": 1758
+      },
+      {
+        "nome": "Aveiro",
+        "codigo_ibge": 1781
+      },
+      {
+        "nome": "Bagre",
+        "codigo_ibge": 1879
+      },
+      {
+        "nome": "Baião",
+        "codigo_ibge": 1758
+      },
+      {
+        "nome": "Bannach",
+        "codigo_ibge": 1997
+      },
+      {
+        "nome": "Barcarena",
+        "codigo_ibge": 1897
+      },
+      {
+        "nome": "Belém",
+        "codigo_ibge": 1616
+      },
+      {
+        "nome": "Belterra",
+        "codigo_ibge": 1934
+      },
+      {
+        "nome": "Benevides",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Bom Jesus do Tocantins",
+        "codigo_ibge": 1962
+      },
+      {
+        "nome": "Bonito",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Bragança",
+        "codigo_ibge": 1613
+      },
+      {
+        "nome": "Brasil Novo",
+        "codigo_ibge": 1991
+      },
+      {
+        "nome": "Brejo Grande do Araguaia",
+        "codigo_ibge": 1988
+      },
+      {
+        "nome": "Breu Branco",
+        "codigo_ibge": 1907
+      },
+      {
+        "nome": "Breves",
+        "codigo_ibge": 1738
+      },
+      {
+        "nome": "Bujaru",
+        "codigo_ibge": 1943
+      },
+      {
+        "nome": "Cachoeira do Arari",
+        "codigo_ibge": 1833
+      },
+      {
+        "nome": "Cachoeira do Piriá",
+        "codigo_ibge": 1995
+      },
+      {
+        "nome": "Cametá",
+        "codigo_ibge": 1613
+      },
+      {
+        "nome": "Canaã dos Carajás",
+        "codigo_ibge": 1982
+      },
+      {
+        "nome": "Capanema",
+        "codigo_ibge": 1910
+      },
+      {
+        "nome": "Capitão Poço",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Castanhal",
+        "codigo_ibge": 1932
+      },
+      {
+        "nome": "Chaves",
+        "codigo_ibge": 1755
+      },
+      {
+        "nome": "Colares",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Conceição do Araguaia",
+        "codigo_ibge": 1897
+      },
+      {
+        "nome": "Concórdia do Pará",
+        "codigo_ibge": 1988
+      },
+      {
+        "nome": "Cumaru do Norte",
+        "codigo_ibge": 1991
+      },
+      {
+        "nome": "Curionópolis",
+        "codigo_ibge": 1988
+      },
+      {
+        "nome": "Curralinho",
+        "codigo_ibge": 1865
+      },
+      {
+        "nome": "Curuá",
+        "codigo_ibge": 1995
+      },
+      {
+        "nome": "Curuçá",
+        "codigo_ibge": 1652
+      },
+      {
+        "nome": "Dom Eliseu",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Eldorado do Carajás",
+        "codigo_ibge": 1980
+      },
+      {
+        "nome": "Faro",
+        "codigo_ibge": 1768
+      },
+      {
+        "nome": "Floresta do Araguaia",
+        "codigo_ibge": 1970
+      },
+      {
+        "nome": "Garrafão do Norte",
+        "codigo_ibge": 1988
+      },
+      {
+        "nome": "Goianésia do Pará",
+        "codigo_ibge": 1977
+      },
+      {
+        "nome": "Gurupá",
+        "codigo_ibge": 1639
+      },
+      {
+        "nome": "Igarapé-Açu",
+        "codigo_ibge": 1906
+      },
+      {
+        "nome": "Igarapé-Miri",
+        "codigo_ibge": 1843
+      },
+      {
+        "nome": "Inhangapi",
+        "codigo_ibge": 1943
+      },
+      {
+        "nome": "Ipixuna do Pará",
+        "codigo_ibge": 1991
+      },
+      {
+        "nome": "Irituia",
+        "codigo_ibge": 1725
+      },
+      {
+        "nome": "Itaituba",
+        "codigo_ibge": 1856
+      },
+      {
+        "nome": "Itupiranga",
+        "codigo_ibge": 1886
+      },
+      {
+        "nome": "Jacareacanga",
+        "codigo_ibge": 1991
+      },
+      {
+        "nome": "Jacundá",
+        "codigo_ibge": 1915
+      },
+      {
+        "nome": "Juruti",
+        "codigo_ibge": 1818
+      },
+      {
+        "nome": "Melgaço",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Muaná",
+        "codigo_ibge": 1895
+      },
+      {
+        "nome": "Ponta de Pedras",
+        "codigo_ibge": 1877
+      },
+      {
+        "nome": "Portel",
+        "codigo_ibge": 1758
+      },
+      {
+        "nome": "Salvaterra",
+        "codigo_ibge": 1962
+      },
+      {
+        "nome": "Santa Cruz do Arari",
+        "codigo_ibge": 1961
+      },
+      {
+        "nome": "Santarém",
+        "codigo_ibge": 1758
+      },
+      {
+        "nome": "São Domingos do Capim",
+        "codigo_ibge": 1890
+      },
+      {
+        "nome": "São Félix do Xingu",
+        "codigo_ibge": 1900
+      },
+      {
+        "nome": "São Francisco do Pará",
+        "codigo_ibge": 1943
+      },
+      {
+        "nome": "São Geraldo do Araguaia",
+        "codigo_ibge": 1952
+      },
+      {
+        "nome": "São João da Ponta",
+        "codigo_ibge": 1995
+      },
+      {
+        "nome": "São João de Pirabas",
+        "codigo_ibge": 1989
+      },
+      {
+        "nome": "São João do Araguaia",
+        "codigo_ibge": 1797
+      },
+      {
+        "nome": "São Miguel do Guamá",
+        "codigo_ibge": 1874
+      },
+      {
+        "nome": "São Sebastião da Boa Vista",
+        "codigo_ibge": 1943
+      },
+      {
+        "nome": "Sapucaia",
+        "codigo_ibge": 1996
+      },
+      {
+        "nome": "Senador José Porfírio",
+        "codigo_ibge": 1639
+      },
+      {
+        "nome": "Soure",
+        "codigo_ibge": 1847
+      },
+      {
+        "nome": "Tailândia",
+        "codigo_ibge": 1989
+      },
+      {
+        "nome": "Terra Alta",
+        "codigo_ibge": 1991
+      },
+      {
+        "nome": "Terra Santa",
+        "codigo_ibge": 1993
+      },
+      {
+        "nome": "Tomé-Açu",
+        "codigo_ibge": 1959
+      },
+      {
+        "nome": "Tracuateua",
+        "codigo_ibge": 1994
+      },
+      {
+        "nome": "Trairão",
+        "codigo_ibge": 1974
+      },
+      {
+        "nome": "Tucumã",
+        "codigo_ibge": 1982
+      },
+      {
+        "nome": "Tucuruí",
+        "codigo_ibge": 1779
+      },
+      {
+        "nome": "Ulianópolis",
+        "codigo_ibge": 1958
+      },
+      {
+        "nome": "Uruará",
+        "codigo_ibge": 1988
+      },
+      {
+        "nome": "Vigia",
+        "codigo_ibge": 1616
+      },
+      {
+        "nome": "Viseu",
+        "codigo_ibge": 1620
+      },
+      {
+        "nome": "Vitória do Xingu",
+        "codigo_ibge": 1868
+      },
+      {
+        "nome": "Xinguara",
+        "codigo_ibge": 1973
+      }
+    ]
   }
 }

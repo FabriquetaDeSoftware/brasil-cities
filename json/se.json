@@ -2,6 +2,303 @@
   "estado": {
     "sigla": "SE",
     "nome": "Sergipe",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Aquidabã",
+        "codigo_ibge": 2800209
+      },
+      {
+        "nome": "Aracaju",
+        "codigo_ibge": 2800308
+      },
+      {
+        "nome": "Arauá",
+        "codigo_ibge": 2800407
+      },
+      {
+        "nome": "Areia Branca",
+        "codigo_ibge": 2800506
+      },
+      {
+        "nome": "Barra dos Coqueiros",
+        "codigo_ibge": 2800605
+      },
+      {
+        "nome": "Boquim",
+        "codigo_ibge": 2800670
+      },
+      {
+        "nome": "Brejo Grande",
+        "codigo_ibge": 2800704
+      },
+      {
+        "nome": "Campo do Brito",
+        "codigo_ibge": 2801009
+      },
+      {
+        "nome": "Canhoba",
+        "codigo_ibge": 2801108
+      },
+      {
+        "nome": "Canindé de São Francisco",
+        "codigo_ibge": 2801207
+      },
+      {
+        "nome": "Capela",
+        "codigo_ibge": 2801306
+      },
+      {
+        "nome": "Carira",
+        "codigo_ibge": 2801405
+      },
+      {
+        "nome": "Carmópolis",
+        "codigo_ibge": 2801504
+      },
+      {
+        "nome": "Cedro de São João",
+        "codigo_ibge": 2801603
+      },
+      {
+        "nome": "Cristinápolis",
+        "codigo_ibge": 2801702
+      },
+      {
+        "nome": "Cumbe",
+        "codigo_ibge": 2801900
+      },
+      {
+        "nome": "Divina Pastora",
+        "codigo_ibge": 2802007
+      },
+      {
+        "nome": "Estância",
+        "codigo_ibge": 2802106
+      },
+      {
+        "nome": "Feira Nova",
+        "codigo_ibge": 2802205
+      },
+      {
+        "nome": "Frei Paulo",
+        "codigo_ibge": 2802304
+      },
+      {
+        "nome": "Gararu",
+        "codigo_ibge": 2802403
+      },
+      {
+        "nome": "General Maynard",
+        "codigo_ibge": 2802502
+      },
+      {
+        "nome": "Graccho Cardoso",
+        "codigo_ibge": 2802601
+      },
+      {
+        "nome": "Ilha das Flores",
+        "codigo_ibge": 2802700
+      },
+      {
+        "nome": "Indiaroba",
+        "codigo_ibge": 2802809
+      },
+      {
+        "nome": "Itabaiana",
+        "codigo_ibge": 2802908
+      },
+      {
+        "nome": "Itabaianinha",
+        "codigo_ibge": 2803005
+      },
+      {
+        "nome": "Itabi",
+        "codigo_ibge": 2803104
+      },
+      {
+        "nome": "Itaporanga d'Ajuda",
+        "codigo_ibge": 2803203
+      },
+      {
+        "nome": "Japaratuba",
+        "codigo_ibge": 2803302
+      },
+      {
+        "nome": "Japoatã",
+        "codigo_ibge": 2803401
+      },
+      {
+        "nome": "Lagarto",
+        "codigo_ibge": 2803500
+      },
+      {
+        "nome": "Laranjeiras",
+        "codigo_ibge": 2803609
+      },
+      {
+        "nome": "Macambira",
+        "codigo_ibge": 2803708
+      },
+      {
+        "nome": "Malhada dos Bois",
+        "codigo_ibge": 2803807
+      },
+      {
+        "nome": "Malhador",
+        "codigo_ibge": 2803906
+      },
+      {
+        "nome": "Maruim",
+        "codigo_ibge": 2804003
+      },
+      {
+        "nome": "Moita Bonita",
+        "codigo_ibge": 2804102
+      },
+      {
+        "nome": "Monte Alegre de Sergipe",
+        "codigo_ibge": 2804201
+      },
+      {
+        "nome": "Muribeca",
+        "codigo_ibge": 2804300
+      },
+      {
+        "nome": "Neópolis",
+        "codigo_ibge": 2804409
+      },
+      {
+        "nome": "Nossa Senhora Aparecida",
+        "codigo_ibge": 2804458
+      },
+      {
+        "nome": "Nossa Senhora da Glória",
+        "codigo_ibge": 2804508
+      },
+      {
+        "nome": "Nossa Senhora das Dores",
+        "codigo_ibge": 2804607
+      },
+      {
+        "nome": "Nossa Senhora de Lourdes",
+        "codigo_ibge": 2804706
+      },
+      {
+        "nome": "Nossa Senhora do Socorro",
+        "codigo_ibge": 2804805
+      },
+      {
+        "nome": "Pacatuba",
+        "codigo_ibge": 2804904
+      },
+      {
+        "nome": "Pedra Mole",
+        "codigo_ibge": 2805000
+      },
+      {
+        "nome": "Pedrinhas",
+        "codigo_ibge": 2805109
+      },
+      {
+        "nome": "Pinhão",
+        "codigo_ibge": 2805208
+      },
+      {
+        "nome": "Pirambu",
+        "codigo_ibge": 2805307
+      },
+      {
+        "nome": "Poço Redondo",
+        "codigo_ibge": 2805406
+      },
+      {
+        "nome": "Poço Verde",
+        "codigo_ibge": 2805505
+      },
+      {
+        "nome": "Porto da Folha",
+        "codigo_ibge": 2805604
+      },
+      {
+        "nome": "Propriá",
+        "codigo_ibge": 2805703
+      },
+      {
+        "nome": "Riachão do Dantas",
+        "codigo_ibge": 2805802
+      },
+      {
+        "nome": "Riachuelo",
+        "codigo_ibge": 2805901
+      },
+      {
+        "nome": "Ribeirópolis",
+        "codigo_ibge": 2806008
+      },
+      {
+        "nome": "Rosário do Catete",
+        "codigo_ibge": 2806107
+      },
+      {
+        "nome": "Salgado",
+        "codigo_ibge": 2806206
+      },
+      {
+        "nome": "Santa Luzia do Itanhy",
+        "codigo_ibge": 2806305
+      },
+      {
+        "nome": "Santa Rosa de Lima",
+        "codigo_ibge": 2806503
+      },
+      {
+        "nome": "Santana do São Francisco",
+        "codigo_ibge": 2806404
+      },
+      {
+        "nome": "Santo Amaro das Brotas",
+        "codigo_ibge": 2806602
+      },
+      {
+        "nome": "São Cristóvão",
+        "codigo_ibge": 2806701
+      },
+      {
+        "nome": "São Domingos",
+        "codigo_ibge": 2806800
+      },
+      {
+        "nome": "São Francisco",
+        "codigo_ibge": 2806909
+      },
+      {
+        "nome": "São Miguel do Aleixo",
+        "codigo_ibge": 2807006
+      },
+      {
+        "nome": "Simão Dias",
+        "codigo_ibge": 2807105
+      },
+      {
+        "nome": "Siriri",
+        "codigo_ibge": 2807204
+      },
+      {
+        "nome": "Telha",
+        "codigo_ibge": 2807303
+      },
+      {
+        "nome": "Tobias Barreto",
+        "codigo_ibge": 2807402
+      },
+      {
+        "nome": "Tomar do Geru",
+        "codigo_ibge": 2807501
+      },
+      {
+        "nome": "Umbaúba",
+        "codigo_ibge": 2807600
+      }
+    ]
   }
 }

@@ -2,6 +2,371 @@
   "estado": {
     "sigla": "RJ",
     "nome": "Rio de Janeiro",
-    "cidades": []
+    "cidades": [
+      {
+        "nome": "Aperibé",
+        "codigo_ibge": 3300159
+      },
+      {
+        "nome": "Araruama",
+        "codigo_ibge": 3300209
+      },
+      {
+        "nome": "Areal",
+        "codigo_ibge": 3300225
+      },
+      {
+        "nome": "Armação dos Búzios",
+        "codigo_ibge": 3300233
+      },
+      {
+        "nome": "Arraial do Cabo",
+        "codigo_ibge": 3300258
+      },
+      {
+        "nome": "Barra do Piraí",
+        "codigo_ibge": 3300308
+      },
+      {
+        "nome": "Barra Mansa",
+        "codigo_ibge": 3300407
+      },
+      {
+        "nome": "Belford Roxo",
+        "codigo_ibge": 3300456
+      },
+      {
+        "nome": "Bom Jardim",
+        "codigo_ibge": 3300506
+      },
+      {
+        "nome": "Bom Jesus do Itabapoana",
+        "codigo_ibge": 3300605
+      },
+      {
+        "nome": "Cabo Frio",
+        "codigo_ibge": 3300704
+      },
+      {
+        "nome": "Cachoeiras de Macacu",
+        "codigo_ibge": 3300803
+      },
+      {
+        "nome": "Cambuci",
+        "codigo_ibge": 3300902
+      },
+      {
+        "nome": "Campos dos Goytacazes",
+        "codigo_ibge": 3301009
+      },
+      {
+        "nome": "Cantagalo",
+        "codigo_ibge": 3301108
+      },
+      {
+        "nome": "Carapebus",
+        "codigo_ibge": 3300936
+      },
+      {
+        "nome": "Cardoso Moreira",
+        "codigo_ibge": 3301157
+      },
+      {
+        "nome": "Carmo",
+        "codigo_ibge": 3301207
+      },
+      {
+        "nome": "Casimiro de Abreu",
+        "codigo_ibge": 3301306
+      },
+      {
+        "nome": "Comendador Levy Gasparian",
+        "codigo_ibge": 3300951
+      },
+      {
+        "nome": "Conceição de Macabu",
+        "codigo_ibge": 3301405
+      },
+      {
+        "nome": "Cordeiro",
+        "codigo_ibge": 3301504
+      },
+      {
+        "nome": "Duas Barras",
+        "codigo_ibge": 3301603
+      },
+      {
+        "nome": "Duque de Caxias",
+        "codigo_ibge": 3301702
+      },
+      {
+        "nome": "Engenheiro Paulo de Frontin",
+        "codigo_ibge": 3301801
+      },
+      {
+        "nome": "Guapimirim",
+        "codigo_ibge": 3301850
+      },
+      {
+        "nome": "Iguaba Grande",
+        "codigo_ibge": 3301876
+      },
+      {
+        "nome": "Itaboraí",
+        "codigo_ibge": 3301900
+      },
+      {
+        "nome": "Itaguaí",
+        "codigo_ibge": 3302007
+      },
+      {
+        "nome": "Italva",
+        "codigo_ibge": 3302056
+      },
+      {
+        "nome": "Itaocara",
+        "codigo_ibge": 3302106
+      },
+      {
+        "nome": "Itaperuna",
+        "codigo_ibge": 3302205
+      },
+      {
+        "nome": "Itatiaia",
+        "codigo_ibge": 3302254
+      },
+      {
+        "nome": "Japeri",
+        "codigo_ibge": 3302270
+      },
+      {
+        "nome": "Laje do Muriaé",
+        "codigo_ibge": 3302304
+      },
+      {
+        "nome": "Macaé",
+        "codigo_ibge": 3302403
+      },
+      {
+        "nome": "Macuco",
+        "codigo_ibge": 3302452
+      },
+      {
+        "nome": "Magé",
+        "codigo_ibge": 3302502
+      },
+      {
+        "nome": "Mangaratiba",
+        "codigo_ibge": 3302601
+      },
+      {
+        "nome": "Maricá",
+        "codigo_ibge": 3302700
+      },
+      {
+        "nome": "Mendes",
+        "codigo_ibge": 3302809
+      },
+      {
+        "nome": "Mesquita",
+        "codigo_ibge": 3302858
+      },
+      {
+        "nome": "Miguel Pereira",
+        "codigo_ibge": 3302908
+      },
+      {
+        "nome": "Miracema",
+        "codigo_ibge": 3303005
+      },
+      {
+        "nome": "Natividade",
+        "codigo_ibge": 3303104
+      },
+      {
+        "nome": "Nilópolis",
+        "codigo_ibge": 3303203
+      },
+      {
+        "nome": "Niterói",
+        "codigo_ibge": 3303302
+      },
+      {
+        "nome": "Nova Friburgo",
+        "codigo_ibge": 3303401
+      },
+      {
+        "nome": "Nova Iguaçu",
+        "codigo_ibge": 3303500
+      },
+      {
+        "nome": "Paracambi",
+        "codigo_ibge": 3303609
+      },
+      {
+        "nome": "Paraíba do Sul",
+        "codigo_ibge": 3303708
+      },
+      {
+        "nome": "Paraty",
+        "codigo_ibge": 3303807
+      },
+      {
+        "nome": "Paty do Alferes",
+        "codigo_ibge": 3303856
+      },
+      {
+        "nome": "Petrópolis",
+        "codigo_ibge": 3303906
+      },
+      {
+        "nome": "Pinheiral",
+        "codigo_ibge": 3303955
+      },
+      {
+        "nome": "Piraí",
+        "codigo_ibge": 3304003
+      },
+      {
+        "nome": "Porciúncula",
+        "codigo_ibge": 3304102
+      },
+      {
+        "nome": "Porto Real",
+        "codigo_ibge": 3304110
+      },
+      {
+        "nome": "Quatis",
+        "codigo_ibge": 3304128
+      },
+      {
+        "nome": "Queimados",
+        "codigo_ibge": 3304144
+      },
+      {
+        "nome": "Quissamã",
+        "codigo_ibge": 3304151
+      },
+      {
+        "nome": "Resende",
+        "codigo_ibge": 3304201
+      },
+      {
+        "nome": "Rio Bonito",
+        "codigo_ibge": 3304300
+      },
+      {
+        "nome": "Rio Claro",
+        "codigo_ibge": 3304409
+      },
+      {
+        "nome": "Rio das Flores",
+        "codigo_ibge": 3304508
+      },
+      {
+        "nome": "Rio das Ostras",
+        "codigo_ibge": 3304524
+      },
+      {
+        "nome": "Rio de Janeiro†",
+        "codigo_ibge": 3304557
+      },
+      {
+        "nome": "Santa Maria Madalena",
+        "codigo_ibge": 3304607
+      },
+      {
+        "nome": "Santo Antônio de Pádua",
+        "codigo_ibge": 3304706
+      },
+      {
+        "nome": "São Fidélis",
+        "codigo_ibge": 3304805
+      },
+      {
+        "nome": "São Francisco de Itabapoana",
+        "codigo_ibge": 3304755
+      },
+      {
+        "nome": "São Gonçalo",
+        "codigo_ibge": 3304904
+      },
+      {
+        "nome": "São João da Barra",
+        "codigo_ibge": 3305000
+      },
+      {
+        "nome": "São João de Meriti",
+        "codigo_ibge": 3305109
+      },
+      {
+        "nome": "São José de Ubá",
+        "codigo_ibge": 3305133
+      },
+      {
+        "nome": "São José do Vale do Rio Preto",
+        "codigo_ibge": 3305158
+      },
+      {
+        "nome": "São Pedro da Aldeia",
+        "codigo_ibge": 3305208
+      },
+      {
+        "nome": "São Sebastião do Alto",
+        "codigo_ibge": 3305307
+      },
+      {
+        "nome": "Sapucaia",
+        "codigo_ibge": 3305406
+      },
+      {
+        "nome": "Saquarema",
+        "codigo_ibge": 3305505
+      },
+      {
+        "nome": "Seropédica",
+        "codigo_ibge": 3305554
+      },
+      {
+        "nome": "Silva Jardim",
+        "codigo_ibge": 3305604
+      },
+      {
+        "nome": "Sumidouro",
+        "codigo_ibge": 3305703
+      },
+      {
+        "nome": "Tanguá",
+        "codigo_ibge": 3305752
+      },
+      {
+        "nome": "Teresópolis",
+        "codigo_ibge": 3305802
+      },
+      {
+        "nome": "Trajano de Moraes",
+        "codigo_ibge": 3305901
+      },
+      {
+        "nome": "Três Rios",
+        "codigo_ibge": 3306008
+      },
+      {
+        "nome": "Valença",
+        "codigo_ibge": 3306107
+      },
+      {
+        "nome": "Varre-Sai",
+        "codigo_ibge": 3306156
+      },
+      {
+        "nome": "Vassouras",
+        "codigo_ibge": 3306206
+      },
+      {
+        "nome": "Volta Redonda",
+        "codigo_ibge": 3306305
+      }
+    ]
   }
 }
