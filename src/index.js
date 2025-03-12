@@ -7,7 +7,7 @@ const __dirname = new URL('.', import.meta.url).pathname;
 /**
  * Obtém os dados de uma cidade de um estado específico.
  * @param {string} sigla - A sigla do estado (por exemplo, 'SP', 'RJ').
- * @returns {{sigla: string, nome: string, cidades: Array<{nome: string, codigo_ibge: number}>}| null} - Retorna os dados do estado ou null se não encontrado.
+ * @returns {{estado: {sigla: string, nome: string, cidades: Array<{nome: string, codigo_ibge: number}>}} | null} - Retorna os dados do estado ou null se não encontrado.
  */
 const getStateData = (sigla) => {
   const filePath = path.resolve(
@@ -34,7 +34,7 @@ const getCitiesByLetters = (letters) => {
   const cities = [];
 
   states.forEach((stateSigla) => {
-    const citiesData = getStateData(stateSigla);
+    const citiesData = getStateData(stateSigla).estado.cidades;
     if (citiesData) {
       citiesData.forEach((city) => {
         if (city.nome.toLowerCase().includes(letters.toLowerCase())) {
@@ -56,7 +56,7 @@ const getCityInfo = (cityName) => {
   const citiesInfo = [];
 
   states.forEach((stateSigla) => {
-    const citiesData = getStateData(stateSigla);
+    const citiesData = getStateData(stateSigla).estado.cidades;
     if (citiesData) {
       citiesData.forEach((city) => {
         if (city.nome.toLowerCase() === cityName.toLowerCase()) {
