@@ -1,8 +1,8 @@
 import * as fs from 'node:fs';
 import path from 'node:path';
-import { states } from './constants/state.constant.js';
+import { states } from './src/constants/state.constant.js';
 
-const __dirname = new URL('.', import.meta.url).pathname;
+const __dirname = new URL('./src', import.meta.url).pathname;
 
 /**
  * Obtém os dados de uma cidade de um estado específico.
