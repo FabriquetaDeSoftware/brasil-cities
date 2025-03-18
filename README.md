@@ -2,6 +2,10 @@
 
 A JavaScript library for working with Brazilian state and city data, making it easy to search and manipulate information about states, cities, and their IBGE codes.
 
+# Atention
+
+### The brasil-cities library below version 1.1.3 is obsolete
+
 ## Installation
 
 To install the library, use npm:
