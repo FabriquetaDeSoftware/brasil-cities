@@ -4,7 +4,7 @@ A JavaScript library for working with Brazilian state and city data, making it e
 
 # Atention
 
-### The brasil-cities library below version 1.1.3 is obsolete
+### The brasil-cities library below version 1.1.3 is deprecated
 
 ## Installation
 
